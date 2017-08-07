@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="vertical"
+    android:background="@color/white"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_weight="1"
+            android:layout_height="0dp">
+            <ImageView
+                android:src="@drawable/icon_costomer_logo"
+                android:layout_centerInParent="true"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content" />
+        </RelativeLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:orientation="vertical"
+            android:layout_weight="2"
+            android:layout_height="0dp">
+            <EditText
+                android:id="@+id/admin_account"
+                android:layout_marginTop="30dp"
+                android:textColorHint="@color/lightgray"
+                android:hint="INPUT USER ID"
+                android:imeOptions="actionNext"
+                android:inputType="number"
+                android:textColor="@color/black"
+                android:layout_gravity="center"
+                android:gravity="center"
+                android:maxLength="2"
+                android:layout_width="300dp"
+                android:drawableLeft="@android:drawable/ic_lock_idle_lock"
+                android:background="@drawable/logon_edittext_resource"
+                android:layout_height="50dp"/>
+
+            <EditText
+                android:id="@+id/admin_password"
+                android:layout_marginTop="30dp"
+                android:textColor="@color/black"
+                android:textColorHint="@color/lightgray"
+                android:hint="INPUT PWD"
+                android:inputType="numberPassword"
+                android:layout_gravity="center"
+                android:maxLength="6"
+                android:gravity="center"
+                android:layout_width="300dp"
+                android:drawableLeft="@android:drawable/ic_lock_idle_lock"
+                android:background="@drawable/logon_edittext_resource"
+                android:layout_height="50dp" />
+
+            <Button
+                android:id="@+id/admin_in_out"
+                android:layout_marginTop="50dp"
+                android:textSize="20sp"
+                android:textColor="@color/white"
+                android:layout_marginRight="20dp"
+                android:layout_gravity="right"
+                android:background="@drawable/custom_btn_resource"
+                android:text="@string/logon_disp"
+                android:layout_width="wrap_content"
+                android:layout_height="50dp" />
+        </LinearLayout>
+    </LinearLayout>
+</LinearLayout>

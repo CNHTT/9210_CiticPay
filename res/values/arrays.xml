@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="trans">
+        <item>余额查询</item>
+        <item>消费</item>
+        <item>二维码支付</item>
+        <item>消费撤销</item>
+        <item>电子现金余额查询</item>
+        <item>快速消费</item>
+        <item>结算</item>
+        <item>签到</item>
+        <item>签退</item>
+        <item>下载公钥/参数</item>
+        <item>交易日志</item>
+        <item>设置</item>
+    </string-array>
+
+    <string-array name="trans_EN">
+        <item>ENQUIRY</item>
+        <item>SALE</item>
+        <item>BARCODE</item>
+        <item>VOID</item>
+        <item>EC_ENQUIRY</item>
+        <item>QUICKPASS</item>
+        <item>SETTLE</item>
+        <item>LOGON</item>
+        <item>LOGOUT</item>
+        <item>DOWNPARA</item>
+        <item>TRANSLOG</item>
+        <item>SETTING</item>
+    </string-array>
+
+    <string-array name="key_words">
+        <item>余额查询</item>
+        <item>消费</item>
+        <item>二维码支付</item>
+        <item>消费撤销</item>
+        <item>自动冲正</item>
+        <item>电子现金余额查询</item>
+        <item>快速消费</item>
+        <item>结算</item>
+        <item>签到</item>
+        <item>签退</item>
+        <item>下载公钥/参数</item>
+        <item>交易日志</item>
+        <item>设置</item>
+    </string-array>
+
+    <string-array name="key_words_pinyin">
+        <item>y</item>
+        <item>x</item>
+        <item>x</item>
+        <item>z</item>
+        <item>d</item>
+        <item>d</item>
+        <item>j</item>
+        <item>q</item>
+        <item>q</item>
+        <item>x</item>
+        <item>j</item>
+        <item>s</item>
+    </string-array>
+
+    <string-array name="setting_items">
+        <item>通讯参数设置</item>
+        <item>交易参数设置</item>
+        <item>密钥参数设置</item>
+        <item>维护密码修改</item>
+        <item>错误日志列表</item>
+        <item>设备信息查询</item>
+    </string-array>
+
+    <string-array name="print_num">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+    </string-array>
+
+    <string-array name="exit_time">
+        <item>5</item>
+        <item>10</item>
+        <item>15</item>
+        <item>20</item>
+        <item>25</item>
+        <item>30</item>
+    </string-array>
+
+    <string-array name="wait_time">
+        <item>30</item>
+        <item>60</item>
+    </string-array>
+
+    <string-array name="onoff">
+        <item>开</item>
+        <item>关</item>
+    </string-array>
+
+    <string-array name="commun_timeout">
+        <item>30</item>
+        <item>60</item>
+    </string-array>
+</resources>

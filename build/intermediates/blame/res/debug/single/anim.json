@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "E:\\demo\\android\\9210DEMO_20170718\\9210DEMO_20170718\\CiticPay\\build\\intermediates\\res\\merged\\debug\\anim\\right2left.xml",
+        "source": "E:\\demo\\android\\9210DEMO_20170718\\9210DEMO_20170718\\CiticPay\\res\\anim\\right2left.xml"
+    },
+    {
+        "merged": "E:\\demo\\android\\9210DEMO_20170718\\9210DEMO_20170718\\CiticPay\\build\\intermediates\\res\\merged\\debug\\anim\\shake.xml",
+        "source": "E:\\demo\\android\\9210DEMO_20170718\\9210DEMO_20170718\\CiticPay\\res\\anim\\shake.xml"
+    },
+    {
+        "merged": "E:\\demo\\android\\9210DEMO_20170718\\9210DEMO_20170718\\CiticPay\\build\\intermediates\\res\\merged\\debug\\anim\\up_2_down.xml",
+        "source": "E:\\demo\\android\\9210DEMO_20170718\\9210DEMO_20170718\\CiticPay\\res\\anim\\up_2_down.xml"
+    },
+    {
+        "merged": "E:\\demo\\android\\9210DEMO_20170718\\9210DEMO_20170718\\CiticPay\\build\\intermediates\\res\\merged\\debug\\anim\\cycle_7.xml",
+        "source": "E:\\demo\\android\\9210DEMO_20170718\\9210DEMO_20170718\\CiticPay\\res\\anim\\cycle_7.xml"
+    },
+    {
+        "merged": "E:\\demo\\android\\9210DEMO_20170718\\9210DEMO_20170718\\CiticPay\\build\\intermediates\\res\\merged\\debug\\anim\\up2down.xml",
+        "source": "E:\\demo\\android\\9210DEMO_20170718\\9210DEMO_20170718\\CiticPay\\build\\intermediates\\exploded-aar\\CiticPay\\libapp\\unspecified\\res\\anim\\up2down.xml"
+    }
+]

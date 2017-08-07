@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="trans">
+        <item>ENQUIRY</item>
+        <item>SALE</item>
+        <item>BARCODE</item>
+        <item>VOID</item>
+        <item>EC_ENQUIRY</item>
+        <item>QUICKPASS</item>
+        <item>SETTLE</item>
+        <item>LOGON</item>
+        <item>LOGOUT</item>
+        <item>DOWNPARA</item>
+        <item>TRANSLOG</item>
+        <item>SETTING</item>
+    </string-array>
+
+    <string-array name="trans_EN">
+        <item>ENQUIRY</item>
+        <item>SALE</item>
+        <item>BARCODE</item>
+        <item>VOID</item>
+        <item>EC_ENQUIRY</item>
+        <item>QUICKPASS</item>
+        <item>SETTLE</item>
+        <item>LOGON</item>
+        <item>LOGOUT</item>
+        <item>DOWNPARA</item>
+        <item>TRANSLOG</item>
+        <item>SETTING</item>
+    </string-array>
+
+    <string-array name="key_words">
+        <item>ENQUIRY</item>
+        <item>SALE</item>
+        <item>BARCODE</item>
+        <item>VOID</item>
+        <item>REVESAL</item>
+        <item>EC_ENQUIRY</item>
+        <item>QUICKPASS</item>
+        <item>SETTLE</item>
+        <item>LOGON</item>
+        <item>LOGOUT</item>
+        <item>DOWNPARA</item>
+        <item>TRANSLOG</item>
+        <item>SETTING</item>
+    </string-array>
+
+    <string-array name="key_words_pinyin">
+        <item>y</item>
+        <item>x</item>
+        <item>x</item>
+        <item>z</item>
+        <item>d</item>
+        <item>d</item>
+        <item>j</item>
+        <item>q</item>
+        <item>q</item>
+        <item>x</item>
+        <item>j</item>
+        <item>s</item>
+    </string-array>
+
+    <string-array name="setting_items">
+        <item>COMM SETTING</item>
+        <item>TRANS SETTING</item>
+        <item>KEY MANAGEMENT</item>
+        <item>PWD MANAGE</item>
+        <item>ERR LOG LIST</item>
+        <item>DEV INFO</item>
+    </string-array>
+
+    <string-array name="print_num">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+    </string-array>
+
+    <string-array name="exit_time">
+        <item>5</item>
+        <item>10</item>
+        <item>15</item>
+        <item>20</item>
+        <item>25</item>
+        <item>30</item>
+    </string-array>
+
+    <string-array name="wait_time">
+        <item>30</item>
+        <item>60</item>
+    </string-array>
+
+    <string-array name="onoff">
+        <item>ON</item>
+        <item>OFF</item>
+    </string-array>
+
+    <string-array name="commun_timeout">
+        <item>30</item>
+        <item>60</item>
+    </string-array>
+</resources>

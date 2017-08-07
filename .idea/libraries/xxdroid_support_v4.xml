@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="xxdroid.support.v4">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/libapp/libs/xxdroid.support.v4.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

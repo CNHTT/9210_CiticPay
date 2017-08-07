@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+
+    <RelativeLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="#E7E7E7"
+        android:orientation="vertical"
+        android:padding="20dp" >
+        <TextView
+            android:id="@+id/text_dialog_input_tips"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColor="@color/black"
+            android:textStyle="bold"
+            android:gravity="center"
+            android:layout_alignParentTop="true"
+            android:layout_centerHorizontal="true"
+            android:textSize="20sp" />
+        <RelativeLayout
+            android:id="@+id/linearLayout1"
+            android:layout_width="fill_parent"
+            android:layout_height="50dp"
+            android:layout_below="@id/text_dialog_input_tips" >
+            <EditText
+                android:id="@+id/edit_dialog_input"
+                android:layout_width="220dp"
+                android:layout_height="50dp"
+                android:layout_centerHorizontal="true"
+                android:layout_centerInParent="true"
+                android:textColor="@color/black"
+                android:layout_marginTop="15dp"
+                android:background="@drawable/amount_edittext_selector"
+                android:gravity="center_vertical|start"
+                android:textSize="24sp"
+                android:inputType="numberDecimal"
+                android:paddingLeft="15dp" >
+              </EditText>
+        </RelativeLayout>
+    </RelativeLayout>
+</LinearLayout>

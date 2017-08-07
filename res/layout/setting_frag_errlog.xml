@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <include
+        android:layout_height="wrap_content"
+        android:layout_width="match_parent"
+        layout="@layout/setting_frag_title"/>
+    <RelativeLayout
+        android:layout_width="wrap_content"
+        android:layout_gravity="center"
+        android:layout_marginTop="20dp"
+        android:layout_height="wrap_content">
+        <TextView
+            android:text="@string/setting_func_cancel"
+            android:background="@drawable/setting_func_cancel_bg"
+            android:textColor="@color/white"
+            android:gravity="center"
+            android:onClick="setting_return"
+            android:layout_alignParentRight="true"
+            android:clickable="true"
+            android:layout_width="100dp"
+            android:layout_height="35dp" />
+    </RelativeLayout>
+    <ScrollView
+        android:layout_width="match_parent"
+        android:id="@+id/setting_errlog_sv"
+        android:scrollbars="none"
+        android:visibility="gone"
+        android:layout_marginTop="20dp"
+        android:orientation="vertical"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="10dp">
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+            <TextView
+                android:id="@+id/setting_errlog_title"
+                android:textColor="@color/red"
+                android:text="@string/setting_errlog_list_name"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content" />
+            <Spinner
+                android:id="@+id/setting_errlog_list"
+                android:paddingLeft="5dp"
+                android:layout_marginTop="10dp"
+                android:background="@drawable/amount_edittext_selector"
+                android:layout_width="350dp"
+                android:layout_height="35dp"/>
+            <TextView
+                android:id="@+id/setting_errlog_detail"
+                android:layout_marginTop="10dp"
+                android:background="@drawable/errlog_edit_text_selector"
+                android:layout_width="350dp"
+                android:layout_height="match_parent" />
+        </LinearLayout>
+    </ScrollView>
+</LinearLayout>

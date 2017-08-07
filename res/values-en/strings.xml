@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- 程序字符串 -->
+    <string name="app_name">SZFPDEMO</string>
+    <string name="app_exception">APP CRASHED</string>
+    <string name="app_locationing">LOCATING</string>
+    <string name="app_searchint">SEARCH</string>
+    <string name="app_exit_confirm">CLICK AGAIN TO EXIT</string>
+    <string name="setting_exit_confirm">CLICK AGAIN TO EXIT</string>
+
+    <!-- 设置字符串 -->
+    <string name="setting_communication_para">COMM PARAM</string>
+    <string name="setting_transaction_para">TRANS PARAM SETTING</string>
+    <string name="setting_keys_para">KEY MANAGEMENT</string>
+    <string name="setting_changepwd_maintain">MAINTAIN PWD SETTING</string>
+    <string name="setting_err_loglist">LIST OF ERR LOG</string>
+    <string name="setting_device_infos">DEV INFO</string>
+
+    <string name="setting_commun_timeout">TIMEOUT OF COMM</string>
+    <string name="setting_commun_public">ENABLE DOMAIN</string>
+    <string name="setting_public_ip">SERVER IP</string>
+    <string name="setting_public_port">SERVER PORT</string>
+    <string name="setting_inner_ip">INNER SERVER IP</string>
+    <string name="setting_inner_port">INNER SERVER PORT</string>
+
+    <string name="setting_mkey_index">SET MASTERKEY INDEX</string>
+    <string name="setting_mkey_data">SET MASTERKEY</string>
+    <string name="setting_mkey_type">SET MASTERKEY TYPE</string>
+    <string name="setting_mkey_type_des">DES</string>
+    <string name="setting_mkey_type_sm">SM</string>
+
+    <string name="setting_func_save">SAVE</string>
+    <string name="setting_func_cancel">EXIT</string>
+    <string name="setting_func_restore">RESTORE</string>
+    <string name="setting_cancel">CANCEL</string>
+    <string name="setting_confirm">CONFIRM</string>
+    <string name="setting_please_input_maintain_pwd">INPUT MAINTAIN PWD</string>
+    <string name="setting_maintain_pwd_err">MAINTAIN PWD ERR</string>
+    <string name="setting_maintain_pwd_set_succ">SUCCESS</string>
+    <string name="setting_maintain_pwd_set_err">FAIL</string>
+    <string name="setting_please_input_change_mp">MODIFY MAINTAIN PWD</string>
+    <string name="setting_please_input_old_mp">OLD PWD:</string>
+    <string name="setting_please_input_new_mp">NEW PWD:</string>
+    <string name="setting_check_oldpwd_err">INCORRECT ORIGINAL PWD</string>
+    <string name="setting_change_maintain_pwd_succ">SUCCESS</string>
+
+    <string name="setting_master_pass_err">MANAGER PWD INCORRECT</string>
+    <string name="setting_master_new_pass_null">NEW PWD CAN NOT BE EMPTY</string>
+
+    <string name="setting_errlog_list_name">LIST OF ERR LOG</string>
+
+    <string name="setting_deviceinfo_product">MANUFACTURER</string>
+    <string name="setting_deviceinfo_model">DEV TYPE</string>
+    <string name="setting_deviceinfo_sdk">SDK VERSION</string>
+    <string name="setting_deviceinfo_cpu_abi">CPU_ABI</string>
+    <string name="setting_deviceinfo_sys">OS</string>
+    <string name="setting_deviceinfo_display">RESOLUTION</string>
+
+    <string name="setting_save_success">SAVE SUCCESS</string>
+    <string name="setting_input_is_null">INPUT IS EMPTY</string>
+    <string name="setting_mkey_len_err">INCORRECT KEY LENGTH</string>
+    <string name="setting_mkey_unknow_err">UNKNOWN ERR</string>
+
+
+    <string name="setting_trans_merchant_info">MERCHANT INFO</string>
+    <string name="setting_merchant_id">MERCHANT ID</string>
+    <string name="setting_merchant_name">MERCHANT NAME</string>
+    <string name="setting_terminal_id">TERMINAL ID</string>
+    <string name="setting_trans_transaction_para">TRANS PARAM</string>
+    <string name="setting_trans_transaction_trace">VOUCHER NO.</string>
+    <string name="setting_trans_transaction_batch">BATCH NO.</string>
+    <string name="setting_trans_transaction_print">SHEET PRINT NUM</string>
+    <string name="setting_trans_transaction_max">MAX NUM OF TRANS</string>
+    <string name="setting_trans_transaction_tpdu">TPDU</string>
+    <string name="setting_trans_transaction_firm">FIRM CODE</string>
+    <string name="setting_trans_transaction_exit_time">TIMEOUT OF TRANS</string>
+	<string name="setting_trans_wait_user_time">TIMEOUT OF WAIT INPUI</string>
+    <string name="setting_master_change_pwd">MODIFY MANAGER PWD</string>
+    <string name="setting_master_old_pwd">ORIGINAL PWD</string>
+    <string name="setting_master_new_pwd">NEW PWD</string>
+    <string name="setting_trans_input_password">INPUT PIN</string>
+    <string name="setting_trans_input_pass_revocation">VOID SALE</string>
+    <string name="setting_trans_use_card">USE CARD</string>
+    <string name="setting_trans_track_encrypt_switch">ENCRYPT TRACK</string>
+	<string name="setting_trans_reversal_count">NUM OF REVERSAL</string>
+    <string name="setting_trans_use_contactless">ENABLE CONTACTLESS</string>
+
+    <!-- 交易字符串 -->
+    <string name="trans_input_amount">INPUT AMT</string>
+    <string name="trans_offline_succ">PIN CHECK SUCCESS</string>
+    <string name="trans_offline_last">INPUT PWD LAST</string>
+    <string name="trans_offline_err">PIN CHECK FAILED</string>
+    <string name="trans_input_password">INPUT PIN</string>
+    <string name="trans_confirm">OK</string>
+    <string name="trans_cancel">CANCEL</string>
+    <string name="trans_use_bank_card">USE CARD PLS</string>
+    <string name="trans_showinfo_trans">CONFIRM TRANS INFO</string>
+    <string name="trans_swipe_card">SWIPE CARD PLS</string>
+    <string name="trans_insert_card">INSERT CARD PLS</string>
+    <string name="trans_pat_card">PAT CARD PLS</string>
+    <string name="trans_confirm_cardno">CONFIRM CARD NO.</string>
+    <string name="trans_input_pass_warning">WARNING: PROTECT YOUR PIN </string>
+    <string name="trans_handling">PROCESSING...</string>
+    <string name="trans_wait_result">WAIT RESULT PLS</string>
+    <string name="trans_use_barcode">SCAN BARCODE PLS</string>
+
+    <string name="trans_sale_amount_len_err">MIN LENGTH: %1$s</string>
+    <string name="trans_sale_amount_empty_err">AMT CAN NOT BE EMPTY</string>
+    <string name="trans_sale_content_empty_err">CONTENT IS EMPTY</string>
+    <string name="trans_sale_input_timeout">INPUT TIMEOUT</string>
+    <string name="trans_sale_input_user_cancel">CANCEL</string>
+
+    <string name="trans_input_master_pass">INPUT MANAGE PWD</string>
+    <string name="trans_input_traceno">INPUT VOUCHER NO.</string>
+
+    <string name="trans_terminal_no_aid">NO AID, DOWNLOAD PLS</string>
+
+    <string name="trans_confirm_card">CONFIRM CARD NO.</string>
+    <string name="trans_void_manage_pwd_ok">MANAGER PWD IS OK</string>
+    <!-- 结果显示字符-->
+    <string name="result_bank_name">SZFP</string>
+    <string name="result_title">RESULT</string>
+
+
+    <string name="input_invoke_manager_para_err">INVOKE MANAGER PARAM ERR</string>
+
+    <string name="history_transaction_detail">TRANS DETAILS</string>
+    <string name="history_search_hint">INPUT VOUCHER NO. PLS</string>
+    <string name="history_no_trans">NO TRANS DETAILS</string>
+    <string name="history_is_null">NO TRANS RECORD</string>
+    <string name="log_trans_is_rever">REVOKED</string>
+
+    <!-- 打印凭条字符 -->
+    <string name="recept_merchant_copy">MERCHANT COPY</string>
+    <string name="recept_cardholder_copy">CARDHOLDER COPY</string>
+    <string name="recept_bank_copy">BANK COPY</string>
+    <string name="recept_merchant_name">MERCHANT NAME</string>
+    <string name="recept_merchant_no">MERCHANT NO.</string>
+    <string name="recept_terminal_no">TERMINAL NO.</string>
+    <string name="recept_operator_no">OPERATOR NO.</string>
+    <string name="recept_card_no">CARD NO.:</string>
+    <string name="recept_issuer">ISSUER:</string>
+    <string name="recept_acquirer">ACQUIRER:</string>
+    <string name="recept_tranc_type">TRANS TYPE:</string>
+    <string name="recept_card_exp_date">EXP DATE:</string>
+    <string name="recept_batch_no">BATCH NO.:</string>
+    <string name="recept_trace_no">VOUCHER NO.:</string>
+    <string name="recept_auth_no">AUTH NO.:</string>
+    <string name="recept_date">DATE:</string>
+    <string name="recept_ref_no">REF NO.:</string>
+    <string name="recept_amoun">AMT:</string>
+    <string name="recept_rmb">$</string>
+    <string name="recept_reference">COMMENTS:</string>
+    <string name="recept_reprint">***** REPRINT *****</string>
+    <string name="recept_cardholder_sign"> CARDHOLDER SIGN</string>
+    <string name="recept_agree_trans">AGREE INFO ABOVE</string>
+	<string name="recept_trans_aac">AC(AAC):</string>
+    <string name="recept_trans_aac_arqc">ONLINE TRANS</string>
+    <string name="recept_trans_aac_tc">OFFLINE TRANS</string>
+    <string name="recept_print_success">PRINT SUCCESS</string>
+    <string name="recept_print_paper_out">PAPER OUT</string>
+    <string name="recept_print_unknown_err">UNKNOWN ERR</string>
+    <string name="recept_enquiry_amount">BALANCE</string>
+	<string name="recept_cuurent_ec_amount">EC BALANCE:</string>
+
+	<string name="pop_reprint">REPRINT</string>
+    <string name="pop_reprint_10">PRINT TEST</string>
+    <string name="pop_printing">PRINTING...,WAIT PLS</string>
+
+    <string name="operator_pwd_err">OPERATOR PWD INCORRECT</string>
+    <string name="logon_disp">LOGON</string>
+     <string name="security_keyboard">SZFP SECURITY KEYBOARD</string>
+
+
+
+
+
+
+    <item name="tag_item_user" type="id"></item>
+    <item name="tag_item_history_trans" type="id"></item>
+
+    <string name="only_can_input">qwertyuioplkjhgfdsazxcvbnmQWERTYUIOPLKJHGFDSAZXCVBNM1234567890</string>
+    <string name="only_hex_input">abcdefABCDEF0123456789</string>
+</resources>

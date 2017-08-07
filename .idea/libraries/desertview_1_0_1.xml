@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="desertview-1.0.1">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/libapp/libs/desertview-1.0.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

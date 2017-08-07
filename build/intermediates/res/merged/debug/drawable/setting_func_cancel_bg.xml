@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape xmlns:android="http://schemas.android.com/apk/res/android" >
+    <corners
+        android:topLeftRadius="20px"
+        android:bottomLeftRadius="20px"/>
+    
+    <gradient 
+        android:startColor="@color/titleBackground_half"
+        android:centerColor="@color/titleBackground_half"
+        android:endColor="@color/titleBackground_half"
+        android:type="sweep"/>
+</shape>

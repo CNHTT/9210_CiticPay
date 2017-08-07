@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <LinearLayout
+        android:id="@+id/setting_changepwd_root_layout"
+        android:layout_width="280dp"
+        android:orientation="vertical"
+        android:layout_centerVertical="true"
+        android:layout_centerHorizontal="true"
+        android:layout_height="170dp">
+        <RelativeLayout
+            android:layout_height="0dp"
+            android:layout_weight="3"
+            android:background="@drawable/shape_password_dialog_bg"
+            android:layout_width="280dp">
+            <TextView
+                android:layout_width="wrap_content"
+                android:id="@+id/change_pwd_tv1"
+                android:layout_marginTop="5dp"
+                android:layout_centerHorizontal="true"
+                android:text="@string/setting_please_input_change_mp"
+                android:layout_height="wrap_content" />
+            <LinearLayout
+                android:id="@+id/change_pwd_ll1"
+                android:layout_width="wrap_content"
+                android:layout_below="@+id/change_pwd_tv1"
+                android:layout_marginLeft="10dp"
+                android:layout_marginTop="10dp"
+                android:orientation="horizontal"
+                android:layout_height="wrap_content">
+                <TextView
+                    android:text="@string/setting_please_input_old_mp"
+                    android:layout_marginLeft="10dp"
+                    android:gravity="center"
+                    android:layout_width="wrap_content"
+                    android:layout_height="match_parent" />
+                <EditText
+                    android:id="@+id/setting_changepwd_edit_old"
+                    android:layout_marginLeft="10dp"
+                    android:layout_marginRight="5dp"
+                    android:imeOptions="actionNext"
+                    android:textColor="@color/black"
+                    android:inputType="textPassword"
+                    android:gravity="center"
+                    android:background="@drawable/amount_edittext_selector"
+                    android:layout_width="150dp"
+                    android:layout_height="35dp" />
+            </LinearLayout>
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:layout_below="@+id/change_pwd_ll1"
+                android:layout_marginLeft="10dp"
+                android:layout_marginTop="20dp"
+                android:orientation="horizontal"
+                android:layout_height="wrap_content">
+                <TextView
+                    android:text="@string/setting_please_input_new_mp"
+                    android:gravity="center"
+                    android:layout_marginLeft="10dp"
+                    android:layout_width="wrap_content"
+                    android:layout_height="match_parent" />
+                <EditText
+                    android:id="@+id/setting_changepwd_edit_new"
+                    android:layout_marginLeft="5dp"
+                    android:layout_marginRight="5dp"
+                    android:imeOptions="actionNext"
+                    android:textColor="@color/black"
+                    android:inputType="textPassword"
+                    android:gravity="center"
+                    android:background="@drawable/amount_edittext_selector"
+                    android:layout_width="150dp"
+                    android:layout_height="35dp" />
+            </LinearLayout>
+        </RelativeLayout>
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:background="@drawable/shape_password_dialog_bg_bottom"
+            android:layout_gravity="bottom"
+            android:orientation="horizontal"
+            android:layout_height="wrap_content">
+            <TextView
+                android:layout_width="0dp"
+                android:layout_weight="1"
+                android:layout_gravity="bottom"
+                android:id="@+id/setting_changepwd_cancel"
+                android:gravity="center"
+                android:clickable="true"
+                android:background="@drawable/shape_password_cancel_bg"
+                android:text="@string/setting_cancel"
+                android:layout_height="40dp" />
+            <TextView
+                android:id="@+id/setting_changepwd_confirm"
+                android:background="@drawable/shape_password_confirm_bg"
+                android:layout_width="0dp"
+                android:layout_gravity="bottom"
+                android:layout_weight="1"
+                android:gravity="center"
+                android:clickable="true"
+                android:text="@string/setting_confirm"
+                android:layout_height="40dp" />
+        </LinearLayout>
+    </LinearLayout>
+</RelativeLayout>

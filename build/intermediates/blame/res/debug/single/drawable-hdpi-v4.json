@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "E:\\demo\\android\\9210DEMO_20170718\\9210DEMO_20170718\\CiticPay\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_enter_pass.jpg",
+        "source": "E:\\demo\\android\\9210DEMO_20170718\\9210DEMO_20170718\\CiticPay\\res\\drawable-hdpi\\icon_enter_pass.jpg"
+    },
+    {
+        "merged": "E:\\demo\\android\\9210DEMO_20170718\\9210DEMO_20170718\\CiticPay\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_location.jpg",
+        "source": "E:\\demo\\android\\9210DEMO_20170718\\9210DEMO_20170718\\CiticPay\\res\\drawable-hdpi\\icon_location.jpg"
+    },
+    {
+        "merged": "E:\\demo\\android\\9210DEMO_20170718\\9210DEMO_20170718\\CiticPay\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\edit_bg2.xml",
+        "source": "E:\\demo\\android\\9210DEMO_20170718\\9210DEMO_20170718\\CiticPay\\res\\drawable-hdpi\\edit_bg2.xml"
+    },
+    {
+        "merged": "E:\\demo\\android\\9210DEMO_20170718\\9210DEMO_20170718\\CiticPay\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_costomer_single_logo.jpg",
+        "source": "E:\\demo\\android\\9210DEMO_20170718\\9210DEMO_20170718\\CiticPay\\res\\drawable-hdpi\\icon_costomer_single_logo.jpg"
+    },
+    {
+        "merged": "E:\\demo\\android\\9210DEMO_20170718\\9210DEMO_20170718\\CiticPay\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_company_logo.jpg",
+        "source": "E:\\demo\\android\\9210DEMO_20170718\\9210DEMO_20170718\\CiticPay\\res\\drawable-hdpi\\icon_company_logo.jpg"
+    },
+    {
+        "merged": "E:\\demo\\android\\9210DEMO_20170718\\9210DEMO_20170718\\CiticPay\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_result_face_laugh.jpg",
+        "source": "E:\\demo\\android\\9210DEMO_20170718\\9210DEMO_20170718\\CiticPay\\res\\drawable-hdpi\\icon_result_face_laugh.jpg"
+    },
+    {
+        "merged": "E:\\demo\\android\\9210DEMO_20170718\\9210DEMO_20170718\\CiticPay\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\citic_logo.jpg",
+        "source": "E:\\demo\\android\\9210DEMO_20170718\\9210DEMO_20170718\\CiticPay\\res\\drawable-hdpi\\citic_logo.jpg"
+    },
+    {
+        "merged": "E:\\demo\\android\\9210DEMO_20170718\\9210DEMO_20170718\\CiticPay\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_costomer_logo.jpg",
+        "source": "E:\\demo\\android\\9210DEMO_20170718\\9210DEMO_20170718\\CiticPay\\res\\drawable-hdpi\\icon_costomer_logo.jpg"
+    },
+    {
+        "merged": "E:\\demo\\android\\9210DEMO_20170718\\9210DEMO_20170718\\CiticPay\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_result_face_cry.jpg",
+        "source": "E:\\demo\\android\\9210DEMO_20170718\\9210DEMO_20170718\\CiticPay\\res\\drawable-hdpi\\icon_result_face_cry.jpg"
+    }
+]

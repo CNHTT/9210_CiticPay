@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:visibility="visible"
+    android:id="@+id/trans_inputamount_layout"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <EditText
+        android:id="@+id/amount_edit"
+        android:background="@drawable/amount_edittext_selector"
+        android:layout_gravity="center"
+        android:layout_centerInParent="true"
+        android:textColor="@color/black"
+        android:textSize="20sp"
+        android:layout_width="match_parent"
+        android:layout_height="90dp" />
+    <com.android.keyboard.DesertKeybord
+        android:id="@+id/amount_keyboard"
+        android:layout_height="match_parent"
+        android:layout_width="match_parent"/>
+</LinearLayout>

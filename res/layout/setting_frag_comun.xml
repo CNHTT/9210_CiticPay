@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+        <include
+            android:layout_height="wrap_content"
+            android:layout_width="match_parent"
+            layout="@layout/setting_frag_title"/>
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:orientation="horizontal"
+            android:layout_height="wrap_content">
+            <LinearLayout
+                android:layout_width="0dp"
+                android:layout_weight="1"
+                android:layout_marginLeft="10dp"
+                android:orientation="vertical"
+                android:layout_height="wrap_content">
+                <TextView
+                    android:text="@string/setting_commun_timeout"
+                    android:layout_marginTop="30dp"
+                    android:layout_marginLeft="5dp"
+                    android:textColor="@color/black"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content" />
+                <Spinner
+                    android:id="@+id/setting_commun_timeout"
+                    android:background="@drawable/amount_edittext_selector"
+                    android:imeOptions="actionNext"
+                    android:textColor="@color/black"
+                    android:layout_marginTop="10dp"
+                    android:layout_width="170dp"
+                    android:layout_height="35dp" />
+
+                <TextView
+                    android:text="@string/setting_public_ip"
+                    android:textColor="@color/black"
+                    android:layout_marginTop="30dp"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content" />
+                <com.android.citic.lib.ipview.IPEditText
+                    android:id="@+id/setting_public_ip"
+                    android:layout_marginTop="10dp"
+                    android:textColor="@color/black"
+                    android:imeOptions="actionNext"
+                    android:background="@drawable/amount_edittext_selector"
+                    android:layout_width="170dp"
+                    android:layout_height="35dp" />
+
+                <TextView
+                    android:text="@string/setting_inner_ip"
+                    android:layout_marginTop="30dp"
+                    android:textColor="@color/black"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content" />
+                <com.android.citic.lib.ipview.IPEditText
+                    android:id="@+id/setting_inner_ip"
+                    android:layout_marginTop="10dp"
+                    android:textColor="@color/black"
+                    android:imeOptions="actionNext"
+                    android:background="@drawable/amount_edittext_selector"
+                    android:layout_width="170dp"
+                    android:layout_height="35dp" />
+            </LinearLayout>
+            <LinearLayout
+                android:layout_width="0dp"
+                android:layout_weight="1"
+                android:orientation="vertical"
+                android:layout_marginLeft="10dp"
+                android:layout_height="wrap_content">
+                <TextView
+                    android:text="@string/setting_commun_public"
+                    android:layout_marginTop="30dp"
+                    android:textColor="@color/black"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content" />
+                <ToggleButton
+                    android:id="@+id/setting_public_switch"
+                    android:checked="false"
+                    android:layout_width="150dp"
+                    android:paddingLeft="5dp"
+                    android:background="@drawable/amount_edittext_selector"
+                    android:layout_marginTop="10dp"
+                    android:layout_height="35dp" />
+
+                <TextView
+                    android:text="@string/setting_public_port"
+                    android:layout_marginTop="30dp"
+                    android:textColor="@color/black"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content" />
+                <EditText
+                    android:id="@+id/setting_public_port"
+                    android:imeOptions="actionNext"
+                    android:paddingLeft="5dp"
+                    android:textColor="@color/black"
+                    android:inputType="number"
+                    android:layout_marginTop="10dp"
+                    android:background="@drawable/amount_edittext_selector"
+                    android:layout_width="150dp"
+                    android:layout_height="35dp" />
+
+                <TextView
+                    android:text="@string/setting_inner_port"
+                    android:layout_marginTop="30dp"
+                    android:textColor="@color/black"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content" />
+                <EditText
+                    android:id="@+id/setting_inner_port"
+                    android:textColor="@color/black"
+                    android:paddingLeft="5dp"
+                    android:inputType="number"
+                    android:layout_marginTop="10dp"
+                    android:background="@drawable/amount_edittext_selector"
+                    android:layout_width="150dp"
+                    android:layout_height="35dp" />
+            </LinearLayout>
+        </LinearLayout>
+        <RelativeLayout
+            android:layout_width="wrap_content"
+            android:layout_gravity="center"
+            android:layout_marginTop="80dp"
+            android:layout_height="wrap_content">
+            <include
+                android:layout_height="wrap_content"
+                android:layout_width="wrap_content"
+                layout="@layout/setting_frag_bottom"/>
+        </RelativeLayout>
+    </LinearLayout>
+</LinearLayout>

@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:id="@+id/trans_confirmcard_layout"
+    android:background="@color/white"
+    android:visibility="gone"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_weight="1"
+        android:layout_height="0dp">
+        <EditText
+            android:id="@+id/confirm_cardno_et"
+            android:background="@drawable/amount_edittext_selector"
+            android:layout_gravity="center"
+            android:layout_centerInParent="true"
+            android:gravity="center"
+            android:enabled="false"
+            android:focusable="false"
+            android:textColor="@color/black"
+            android:textSize="20sp"
+            android:layout_width="match_parent"
+            android:layout_height="70dp" />
+    </RelativeLayout>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_weight="1"
+        android:layout_marginLeft="5dp"
+        android:layout_marginRight="5dp"
+        android:orientation="horizontal"
+        android:layout_height="0dp">
+        <Button
+            android:id="@+id/confirm_cardno_cancel"
+            android:text="@string/trans_cancel"
+            android:textSize="@dimen/text_font_25"
+            android:layout_gravity="center_vertical|center_horizontal"
+            android:background="@drawable/setting_func_cancel_bg"
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:layout_height="60dp" />
+        <Button
+            android:id="@+id/confirm_cardno_confirm"
+            android:text="@string/trans_confirm"
+            android:textSize="@dimen/text_font_25"
+            android:layout_gravity="center_vertical|center_horizontal"
+            android:background="@drawable/setting_func_save_bg"
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:layout_height="60dp" />
+    </LinearLayout>
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_weight="1"
+        android:layout_height="0dp">
+        <ImageView
+            android:src="@drawable/icon_costomer_logo"
+            android:layout_centerInParent="true"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+    </RelativeLayout>
+</LinearLayout>

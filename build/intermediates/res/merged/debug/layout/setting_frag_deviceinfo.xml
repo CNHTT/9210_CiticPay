@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <include
+        android:layout_height="wrap_content"
+        android:layout_width="match_parent"
+        layout="@layout/setting_frag_title"/>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_marginTop="50dp"
+        android:layout_marginLeft="10dp"
+        android:orientation="vertical"
+        android:layout_height="wrap_content">
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:background="@drawable/device_info_bg"
+            android:layout_height="35dp">
+            <TextView
+                android:text="@string/setting_deviceinfo_product"
+                android:paddingLeft="5dp"
+                android:layout_centerVertical="true"
+                android:layout_width="wrap_content"
+                android:layout_alignParentLeft="true"
+                android:layout_height="wrap_content" />
+            <TextView
+                android:id="@+id/setting_deviceinfo_product"
+                android:paddingRight="5dp"
+                android:layout_width="wrap_content"
+                android:layout_centerVertical="true"
+                android:layout_alignParentRight="true"
+                android:layout_height="wrap_content" />
+        </RelativeLayout>
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:background="@drawable/device_info_bg"
+            android:layout_marginTop="20dp"
+            android:layout_height="35dp">
+            <TextView
+                android:text="@string/setting_deviceinfo_model"
+                android:paddingLeft="5dp"
+                android:layout_centerVertical="true"
+                android:layout_width="wrap_content"
+                android:layout_alignParentLeft="true"
+                android:layout_height="wrap_content" />
+            <TextView
+                android:id="@+id/setting_deviceinfo_model"
+                android:paddingRight="5dp"
+                android:layout_width="wrap_content"
+                android:layout_centerVertical="true"
+                android:layout_alignParentRight="true"
+                android:layout_height="wrap_content" />
+        </RelativeLayout>
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:background="@drawable/device_info_bg"
+            android:layout_marginTop="20dp"
+            android:layout_height="35dp">
+            <TextView
+                android:text="@string/setting_deviceinfo_sys"
+                android:paddingLeft="5dp"
+                android:layout_centerVertical="true"
+                android:layout_width="wrap_content"
+                android:layout_alignParentLeft="true"
+                android:layout_height="wrap_content" />
+            <TextView
+                android:id="@+id/setting_deviceinfo_platform"
+                android:paddingRight="5dp"
+                android:layout_width="wrap_content"
+                android:layout_centerVertical="true"
+                android:layout_alignParentRight="true"
+                android:layout_height="wrap_content" />
+        </RelativeLayout>
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:background="@drawable/device_info_bg"
+            android:layout_marginTop="20dp"
+            android:layout_height="35dp">
+            <TextView
+                android:text="@string/setting_deviceinfo_cpu_abi"
+                android:paddingLeft="5dp"
+                android:layout_centerVertical="true"
+                android:layout_width="wrap_content"
+                android:layout_alignParentLeft="true"
+                android:layout_height="wrap_content" />
+            <TextView
+                android:id="@+id/setting_deviceinfo_cpuabi"
+                android:paddingRight="5dp"
+                android:layout_width="wrap_content"
+                android:layout_centerVertical="true"
+                android:layout_alignParentRight="true"
+                android:layout_height="wrap_content" />
+        </RelativeLayout>
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:background="@drawable/device_info_bg"
+            android:layout_marginTop="20dp"
+            android:layout_height="35dp">
+            <TextView
+                android:text="@string/setting_deviceinfo_sdk"
+                android:paddingLeft="5dp"
+                android:layout_centerVertical="true"
+                android:layout_width="wrap_content"
+                android:layout_alignParentLeft="true"
+                android:layout_height="wrap_content" />
+            <TextView
+                android:id="@+id/setting_deviceinfo_sdk"
+                android:paddingRight="5dp"
+                android:layout_width="wrap_content"
+                android:layout_centerVertical="true"
+                android:layout_alignParentRight="true"
+                android:layout_height="wrap_content" />
+        </RelativeLayout>
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:background="@drawable/device_info_bg"
+            android:layout_marginTop="20dp"
+            android:layout_height="35dp">
+            <TextView
+                android:text="@string/setting_deviceinfo_display"
+                android:layout_centerVertical="true"
+                android:layout_width="wrap_content"
+                android:layout_alignParentLeft="true"
+                android:layout_height="wrap_content" />
+            <TextView
+                android:id="@+id/setting_deviceinfo_display"
+                android:paddingRight="5dp"
+                android:layout_width="wrap_content"
+                android:layout_centerVertical="true"
+                android:layout_alignParentRight="true"
+                android:layout_height="wrap_content" />
+        </RelativeLayout>
+    </LinearLayout>
+    <RelativeLayout
+        android:layout_width="wrap_content"
+        android:layout_gravity="center"
+        android:layout_marginTop="50dp"
+        android:layout_height="wrap_content">
+        <TextView
+            android:text="@string/setting_func_cancel"
+            android:background="@drawable/setting_func_cancel_bg"
+            android:textColor="@color/white"
+            android:gravity="center"
+            android:onClick="setting_return"
+            android:layout_alignParentRight="true"
+            android:clickable="true"
+            android:layout_width="100dp"
+            android:layout_height="35dp" />
+    </RelativeLayout>
+</LinearLayout>

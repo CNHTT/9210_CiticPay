@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <include
+        android:layout_height="wrap_content"
+        android:layout_width="match_parent"
+        layout="@layout/setting_frag_title"/>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_marginTop="50dp"
+        android:layout_marginLeft="10dp"
+        android:orientation="vertical"
+        android:layout_height="wrap_content">
+        <TextView
+        android:text="@string/setting_mkey_index"
+        android:textColor="@color/black"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+        <EditText
+            android:id="@+id/setting_mkey_index"
+            android:imeOptions="actionNext"
+            android:textColor="@color/black"
+            android:paddingLeft="5dp"
+            android:inputType="number"
+            android:maxLength="2"
+            android:layout_marginTop="20dp"
+            android:background="@drawable/amount_edittext_selector"
+            android:layout_width="350dp"
+            android:layout_height="35dp" />
+
+        <TextView
+            android:text="@string/setting_mkey_data"
+            android:layout_marginTop="20dp"
+            android:textColor="@color/black"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+        <EditText
+            android:id="@+id/setting_mkey_data"
+            android:maxLength="64"
+            android:paddingLeft="5dp"
+            android:text="1FADE0E6B5A480310119A8A45BFD8F5E"
+            android:imeOptions="actionNext"
+            android:textColor="@color/black"
+            android:layout_marginTop="20dp"
+            android:background="@drawable/amount_edittext_selector"
+            android:layout_width="350dp"
+            android:layout_height="35dp" />
+
+        <TextView
+            android:text="@string/setting_mkey_type"
+            android:layout_marginTop="20dp"
+            android:textColor="@color/black"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+        <RadioGroup
+            android:layout_width="match_parent"
+            android:orientation="horizontal"
+            android:layout_marginTop="20dp"
+            android:layout_height="wrap_content">
+            <RadioButton
+                android:id="@+id/setting_mkey_type_des"
+                android:text="@string/setting_mkey_type_des"
+                android:layout_marginLeft="20dp"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content" />
+            <RadioButton
+                android:id="@+id/setting_mkey_type_sm"
+                android:text="@string/setting_mkey_type_sm"
+                android:layout_marginLeft="50dp"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content" />
+        </RadioGroup>
+    </LinearLayout>
+    <RelativeLayout
+        android:layout_width="wrap_content"
+        android:layout_gravity="center"
+        android:layout_marginTop="50dp"
+        android:layout_height="wrap_content">
+        <include
+            android:layout_height="wrap_content"
+            android:layout_width="wrap_content"
+            layout="@layout/setting_frag_bottom"/>
+    </RelativeLayout>
+</LinearLayout>

@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">libapp</string>
+    <string name="ip_err">Invalid IP address</string>
+    <string name="original_maintain_pass">20170310</string>
+</resources>

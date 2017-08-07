@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:background="@drawable/icon_background"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:id="@+id/history_search_layout"
+        android:layout_margin="10dp"
+        android:orientation="horizontal"
+        android:layout_height="50dp">
+        <EditText
+            android:layout_width="0dp"
+            android:layout_weight="4"
+            android:textColorHint="@color/gray"
+            android:textColor="@color/gray"
+            android:hint="@string/history_search_hint"
+            android:id="@+id/history_search_edit"
+            android:inputType="number"
+            android:background="@drawable/amount_edittext_selector"
+            android:layout_height="match_parent" />
+        <RelativeLayout
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:layout_height="match_parent">
+            <ImageView
+                android:id="@+id/history_search"
+                android:layout_width="wrap_content"
+                android:layout_centerInParent="true"
+                android:src="@android:drawable/ic_menu_search"
+                android:layout_height="wrap_content" />
+        </RelativeLayout>
+    </LinearLayout>
+    <ListView
+        android:id="@+id/history_lv"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:layout_marginTop="10dp"
+        android:scrollbars="none"
+        style="@style/list_nodiv"/>
+    <include
+        android:id="@+id/history_nodata"
+        layout="@layout/trans_history_nodata" />
+</LinearLayout>

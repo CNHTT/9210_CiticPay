@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="@dimen/activity_top_50"
+    android:background="@color/base_blue">
+    <TextView
+        android:id="@+id/setting_title_tv"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_centerInParent="true"
+        android:ellipsize="end"
+        android:gravity="center"
+        android:maxWidth="185dp"
+        android:paddingLeft="80dp"
+        android:paddingRight="80dp"
+        android:singleLine="true"
+        android:text="@string/app_name"
+        android:textColor="@color/white"
+        android:textSize="14sp" />
+</RelativeLayout>

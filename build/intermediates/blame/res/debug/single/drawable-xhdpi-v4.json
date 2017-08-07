@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "E:\\demo\\android\\9210DEMO_20170718\\9210DEMO_20170718\\CiticPay\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\rootblock_default_bg.jpg",
+        "source": "E:\\demo\\android\\9210DEMO_20170718\\9210DEMO_20170718\\CiticPay\\res\\drawable-xhdpi\\rootblock_default_bg.jpg"
+    },
+    {
+        "merged": "E:\\demo\\android\\9210DEMO_20170718\\9210DEMO_20170718\\CiticPay\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\rootblock_default_bg_night.jpg",
+        "source": "E:\\demo\\android\\9210DEMO_20170718\\9210DEMO_20170718\\CiticPay\\res\\drawable-xhdpi\\rootblock_default_bg_night.jpg"
+    }
+]

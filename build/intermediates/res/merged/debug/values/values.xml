@@ -1,0 +1,564 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="commun_timeout">
+        <item>30</item>
+        <item>60</item>
+    </string-array>
+    <string-array name="exit_time">
+        <item>5</item>
+        <item>10</item>
+        <item>15</item>
+        <item>20</item>
+        <item>25</item>
+        <item>30</item>
+    </string-array>
+    <string-array name="key_words">
+        <item>余额查询</item>
+        <item>消费</item>
+        <item>二维码支付</item>
+        <item>消费撤销</item>
+        <item>自动冲正</item>
+        <item>电子现金余额查询</item>
+        <item>快速消费</item>
+        <item>结算</item>
+        <item>签到</item>
+        <item>签退</item>
+        <item>下载公钥/参数</item>
+        <item>交易日志</item>
+        <item>设置</item>
+    </string-array>
+    <string-array name="key_words_pinyin">
+        <item>y</item>
+        <item>x</item>
+        <item>x</item>
+        <item>z</item>
+        <item>d</item>
+        <item>d</item>
+        <item>j</item>
+        <item>q</item>
+        <item>q</item>
+        <item>x</item>
+        <item>j</item>
+        <item>s</item>
+    </string-array>
+    <string-array name="onoff">
+        <item>开</item>
+        <item>关</item>
+    </string-array>
+    <string-array name="print_num">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+    </string-array>
+    <string-array name="setting_items">
+        <item>通讯参数设置</item>
+        <item>交易参数设置</item>
+        <item>密钥参数设置</item>
+        <item>维护密码修改</item>
+        <item>错误日志列表</item>
+        <item>设备信息查询</item>
+    </string-array>
+    <string-array name="trans">
+        <item>余额查询</item>
+        <item>消费</item>
+        <item>二维码支付</item>
+        <item>消费撤销</item>
+        <item>电子现金余额查询</item>
+        <item>快速消费</item>
+        <item>结算</item>
+        <item>签到</item>
+        <item>签退</item>
+        <item>下载公钥/参数</item>
+        <item>交易日志</item>
+        <item>设置</item>
+    </string-array>
+    <string-array name="trans_EN">
+        <item>ENQUIRY</item>
+        <item>SALE</item>
+        <item>BARCODE</item>
+        <item>VOID</item>
+        <item>EC_ENQUIRY</item>
+        <item>QUICKPASS</item>
+        <item>SETTLE</item>
+        <item>LOGON</item>
+        <item>LOGOUT</item>
+        <item>DOWNPARA</item>
+        <item>TRANSLOG</item>
+        <item>SETTING</item>
+    </string-array>
+    <string-array name="wait_time">
+        <item>30</item>
+        <item>60</item>
+    </string-array>
+    <color name="Color_Black">#000000</color>
+    <color name="Color_Black_a_60">#1F000000</color>
+    <color name="Color_Gray">#cccccc</color>
+    <color name="Color_Green">#356000</color>
+    <color name="Color_Link">#5a5dff</color>
+    <color name="Color_White">#FFFFFF</color>
+    <color name="Color_Yellow">#cccc00</color>
+    <color name="Grey">#BEBEBE</color>
+    <color name="LightGray">#D3D3D3</color>
+    <color name="accent">#61B3DD</color>
+    <color name="aliceblue">#f0f8ff</color>
+    <color name="alpha_00">#00000000</color>
+    <color name="antiquewhite">#faebd7</color>
+    <color name="aqua">#00ffff</color>
+    <color name="aquamarine">#7fffd4</color>
+    <color name="azure">#f0ffff</color>
+    <color name="background">#e5e5e5</color>
+    <color name="base_blue">#557BCD</color>
+    <color name="beige">#f5f5dc</color>
+    <color name="bg">#fff1f6fc</color>
+    <color name="bgColor_overlay">#60000000</color>
+    <color name="bg_color">#557BCD</color>
+    <color name="bisque">#ffe4c4</color>
+    <color name="black">#000000</color>
+    <color name="blanchedalmond">#ffebcd</color>
+    <color name="blue">#0000ff</color>
+    <color name="blue_text">#3189e7</color>
+    <color name="blueviolet">#8a2be2</color>
+    <color name="brown">#a52a2a</color>
+    <color name="burlywood">#deb887</color>
+    <color name="cadetblue">#5f9ea0</color>
+    <color name="chartreuse">#7fff00</color>
+    <color name="chocolate">#d2691e</color>
+    <color name="classicalGgray">#c9c9c9</color>
+    <color name="classicalblack">#000000</color>
+    <color name="classicalblue">#03AEDA</color>
+    <color name="classicaldeepblue">#0000FF</color>
+    <color name="classicaldeepred">#B03060</color>
+    <color name="classicalgreen">#00FF00</color>
+    <color name="classicalpink">#FFCCCC</color>
+    <color name="classicalpurse">#767c9b</color>
+    <color name="classicalred">#FF0000</color>
+    <color name="classicalwhite">#FFFFFF</color>
+    <color name="colorAccent">#8661C1</color>
+    <color name="colorPrimary">#303030</color>
+    <color name="colorPrimaryDark">#303030</color>
+    <color name="colorend">#ff9258ff</color>
+    <color name="colormiddle">#ff7fffff</color>
+    <color name="colorstart">#ff6da700</color>
+    <color name="common_font_color_2">#ff485361</color>
+    <color name="coral">#ff7f50</color>
+    <color name="cornflowerblue">#6495ed</color>
+    <color name="cornsilk">#fff8dc</color>
+    <color name="crimson">#dc143c</color>
+    <color name="cyan">#00ffff</color>
+    <color name="darkblue">#00008b</color>
+    <color name="darkcyan">#008b8b</color>
+    <color name="darkgoldenrod">#b8860b</color>
+    <color name="darkgray">#a9a9a9</color>
+    <color name="darkgreen">#006400</color>
+    <color name="darkgrey">#a9a9a9</color>
+    <color name="darkkhaki">#bdb76b</color>
+    <color name="darkmagenta">#8b008b</color>
+    <color name="darkolivegreen">#556b2f</color>
+    <color name="darkorange">#ff8c00</color>
+    <color name="darkorchid">#9932cc</color>
+    <color name="darkred">#8b0000</color>
+    <color name="darksalmon">#e9967a</color>
+    <color name="darkseagreen">#8fbc8f</color>
+    <color name="darkslateblue">#483d8b</color>
+    <color name="darkslategray">#2f4f4f</color>
+    <color name="darkslategrey">#2f4f4f</color>
+    <color name="darkturquoise">#00ced1</color>
+    <color name="darkviolet">#9400d3</color>
+    <color name="deeppink">#ff1493</color>
+    <color name="deepskyblue">#00bfff</color>
+    <color name="dimgray">#696969</color>
+    <color name="dimgrey">#696969</color>
+    <color name="divider">#B6B6B6</color>
+    <color name="dodgerblue">#1e90ff</color>
+    <color name="eggplant">#663D4E</color>
+    <color name="firebrick">#b22222</color>
+    <color name="floralwhite">#fffaf0</color>
+    <color name="forestgreen">#228b22</color>
+    <color name="fuchsia">#ff00ff</color>
+    <color name="gainsboro">#dcdcdc</color>
+    <color name="gd_action_bar_divider_tint">#7fff</color>
+    <color name="gd_action_bar_tint">#a8c24e</color>
+    <color name="ghostwhite">#f8f8ff</color>
+    <color name="gold">#ffd700</color>
+    <color name="goldenrod">#daa520</color>
+    <color name="gray">#808080</color>
+    <color name="green">#008000</color>
+    <color name="greenyellow">#adff2f</color>
+    <color name="grey">#808080</color>
+    <color name="honeydew">#f0fff0</color>
+    <color name="hotpink">#ff69b4</color>
+    <color name="icons">#FFFFFF</color>
+    <color name="indianred">#cd5c5c</color>
+    <color name="indigo">#4b0082</color>
+    <color name="itemcolcor">#fff1f6fc</color>
+    <color name="ivory">#fffff0</color>
+    <color name="khaki">#f0e68c</color>
+    <color name="lavender">#e6e6fa</color>
+    <color name="lavenderblush">#fff0f5</color>
+    <color name="lawngreen">#7cfc00</color>
+    <color name="lemonchiffon">#fffacd</color>
+    <color name="light_orange">#fcb75c</color>
+    <color name="lightblue">#add8e6</color>
+    <color name="lightcoral">#f08080</color>
+    <color name="lightcyan">#e0ffff</color>
+    <color name="lightgoldenrodyellow">#fafad2</color>
+    <color name="lightgray">#d3d3d3</color>
+    <color name="lightgreen">#90ee90</color>
+    <color name="lightgrey">#d3d3d3</color>
+    <color name="lightpink">#ffb6c1</color>
+    <color name="lightsalmon">#ffa07a</color>
+    <color name="lightseagreen">#20b2aa</color>
+    <color name="lightskyblue">#87cefa</color>
+    <color name="lightslategray">#778899</color>
+    <color name="lightslategrey">#778899</color>
+    <color name="lightsteelblue">#b0c4de</color>
+    <color name="lightyellow">#ffffe0</color>
+    <color name="lime">#00ff00</color>
+    <color name="limegreen">#32cd32</color>
+    <color name="linen">#faf0e6</color>
+    <color name="listDivider">#ff4784d3</color>
+    <color name="lucensy">#00000001</color>
+    <color name="magenta">#ff00ff</color>
+    <color name="maroon">#800000</color>
+    <color name="mediumaquamarine">#66cdaa</color>
+    <color name="mediumblue">#0000cd</color>
+    <color name="mediumorchid">#ba55d3</color>
+    <color name="mediumpurple">#9370db</color>
+    <color name="mediumseagreen">#3cb371</color>
+    <color name="mediumslateblue">#7b68ee</color>
+    <color name="mediumspringgreen">#00fa9a</color>
+    <color name="mediumturquoise">#48d1cc</color>
+    <color name="mediumvioletred">#c71585</color>
+    <color name="midnightblue">#191970</color>
+    <color name="mintcream">#f5fffa</color>
+    <color name="mistyrose">#ffe4e1</color>
+    <color name="moccasin">#ffe4b5</color>
+    <color name="navajowhite">#ffdead</color>
+    <color name="navy">#000080</color>
+    <color name="oldlace">#fdf5e6</color>
+    <color name="olive">#808000</color>
+    <color name="olivedrab">#6b8e23</color>
+    <color name="orange">#ffa500</color>
+    <color name="orangered">#ff4500</color>
+    <color name="orchid">#da70d6</color>
+    <color name="palegoldenrod">#eee8aa</color>
+    <color name="palegreen">#98fb98</color>
+    <color name="paleturquoise">#afeeee</color>
+    <color name="palevioletred">#db7093</color>
+    <color name="papayawhip">#ffefd5</color>
+    <color name="peachpuff">#ffdab9</color>
+    <color name="peru">#cd853f</color>
+    <color name="pickerview_bg_topbar">#f5f5f5</color>
+    <color name="pickerview_timebtn_nor">#057dff</color>
+    <color name="pickerview_timebtn_pre">#c2daf5</color>
+    <color name="pickerview_topbar_title">#000000</color>
+    <color name="pickerview_wheelview_textcolor_center">#2a2a2a</color>
+    <color name="pickerview_wheelview_textcolor_divider">#d5d5d5</color>
+    <color name="pickerview_wheelview_textcolor_out">#a8a8a8</color>
+    <color name="pink">#ffc0cb</color>
+    <color name="plum">#dda0dd</color>
+    <color name="powderblue">#b0e0e6</color>
+    <color name="primary">#00BCD4</color>
+    <color name="primary_dark">#0097A7</color>
+    <color name="primary_light">#B2EBF2</color>
+    <color name="primary_text">#212121</color>
+    <color name="purple">#800080</color>
+    <color name="qqblue">#ff54acea</color>
+    <color name="radiobg_normal">#ff555555</color>
+    <color name="radiobg_press">#ff43859d</color>
+    <color name="red">#ff0000</color>
+    <color name="rosybrown">#bc8f8f</color>
+    <color name="royalblue">#4169e1</color>
+    <color name="saddlebrown">#8b4513</color>
+    <color name="saffron">#F4B63E</color>
+    <color name="salmon">#fa8072</color>
+    <color name="sandybrown">#f4a460</color>
+    <color name="seaShell">#fff5ee</color>
+    <color name="seagreen">#2e8b57</color>
+    <color name="secondary_text">#727272</color>
+    <color name="sienna">#a0522d</color>
+    <color name="silver">#c0c0c0</color>
+    <color name="skyblue">#87ceeb</color>
+    <color name="slateblue">#6a5acd</color>
+    <color name="slategray">#708090</color>
+    <color name="slategrey">#708090</color>
+    <color name="snow">#fffafa</color>
+    <color name="springgreen">#00ff7f</color>
+    <color name="staged_blue">#ff82e0ff</color>
+    <color name="staged_green">#ff8dd304</color>
+    <color name="staged_grey">#ffd3d3d3</color>
+    <color name="staged_list_item_pressed">#1A000000</color>
+    <color name="staged_orange">#ffffdc7e</color>
+    <color name="staged_red">#fff10800</color>
+    <color name="staged_yellow">#fffffbae</color>
+    <color name="steelblue">#4682b4</color>
+    <color name="tan">#d2b48c</color>
+    <color name="teal">#008080</color>
+    <color name="thistle">#d8bfd8</color>
+    <color name="titleBackground">#ffd90504</color>
+    <color name="titleBackground1">#ff6da700</color>
+    <color name="titleBackground_half">#ffd90504</color>
+    <color name="tomato">#ff6347</color>
+    <color name="trans">#50000000</color>
+    <color name="translucency">#e0000000</color>
+    <color name="transparent">#00000000</color>
+    <color name="transparent_background">#50000000</color>
+    <color name="turquoise">#40e0d0</color>
+    <color name="violet">#ee82ee</color>
+    <color name="wheat">#f5deb3</color>
+    <color name="white">#ffffff</color>
+    <color name="whitesmoke">#f5f5f5</color>
+    <color name="window_bg">#ffeef1f3</color>
+    <color name="xbusgreen">#ff00c3a5</color>
+    <color name="yellow">#ffff00</color>
+    <declare-styleable name="StaggeredGridView"><attr format="integer" name="column_count"/><attr format="integer" name="column_count_portrait"/><attr format="integer" name="column_count_landscape"/><attr format="dimension" name="item_margin"/><attr format="dimension" name="grid_paddingLeft"/><attr format="dimension" name="grid_paddingRight"/><attr format="dimension" name="grid_paddingTop"/><attr format="dimension" name="grid_paddingBottom"/></declare-styleable>
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_top_45">65dp</dimen>
+    <dimen name="activity_top_50">50dp</dimen>
+    <dimen name="activity_vertical_margin">26dp</dimen>
+    <dimen name="text_font_10">20sp</dimen>
+    <dimen name="text_font_12">22sp</dimen>
+    <dimen name="text_font_14">24sp</dimen>
+    <dimen name="text_font_15">26sp</dimen>
+    <dimen name="text_font_16">28sp</dimen>
+    <dimen name="text_font_18">30sp</dimen>
+    <dimen name="text_font_20">32sp</dimen>
+    <dimen name="text_font_22">34sp</dimen>
+    <dimen name="text_font_25">26sp</dimen>
+    <dimen name="text_font_30">38sp</dimen>
+    <dimen name="text_font_55">55sp</dimen>
+    <dimen name="text_font_8">18sp</dimen>
+    <dimen name="title_bar_height">44dp</dimen>
+    <drawable name="btn_focus">#FFFFFF</drawable>
+    <drawable name="divide">#555555</drawable>
+    <drawable name="iv_placeholder">#5C5A5A</drawable>
+    <drawable name="listview_item1">#1FE1E1E1</drawable>
+    <drawable name="listview_item2">#1FEBEBEB</drawable>
+    <drawable name="listview_item3">#1FB4B4B4</drawable>
+    <drawable name="tv_cut">#888888</drawable>
+    <drawable name="tv_focused">#1F2FAB</drawable>
+    <drawable name="tv_in">#ffff00</drawable>
+    <drawable name="tv_normal">#FFFFFF</drawable>
+    <drawable name="tv_pressed">#00cccc</drawable>
+    <drawable name="tv_selected">#0014AB</drawable>
+    <item name="tag_item_history_trans" type="id"/>
+    <item name="tag_item_user" type="id"/>
+    <integer name="grid_column_count">2</integer>
+    <string name="app_exception">程序异常奔溃</string>
+    <string name="app_exit_confirm">再按一次退出程序</string>
+    <string name="app_locationing">定位中</string>
+    <string name="app_name">SZFPDEMO</string>
+    <string name="app_searchint">请搜索交易</string>
+    <string name="history_is_null">无交易记录</string>
+    <string name="history_no_trans">没有当前交易明细</string>
+    <string name="history_search_hint">请输入交易流水号</string>
+    <string name="history_transaction_detail">交易日志</string>
+    <string name="input_invoke_manager_para_err">调用输入管理器参数错误</string>
+    <string name="ip_err">Invalid IP address</string>
+    <string name="log_trans_is_rever">已撤销</string>
+    <string name="logon_disp">操作员登录</string>
+    <string name="only_can_input">qwertyuioplkjhgfdsazxcvbnmQWERTYUIOPLKJHGFDSAZXCVBNM1234567890</string>
+    <string name="only_hex_input">abcdefABCDEF0123456789</string>
+    <string name="operator_pwd_err">操作员密码错误</string>
+    <string name="original_maintain_pass">20170310</string>
+    <string name="pop_printing">打印中，请稍后</string>
+    <string name="pop_reprint">重打印</string>
+    <string name="pop_reprint_10">10笔打印测试</string>
+    <string name="recept_acquirer">收单行</string>
+    <string name="recept_agree_trans">本人同意以上交易</string>
+    <string name="recept_amoun">金额</string>
+    <string name="recept_auth_no">授权码</string>
+    <string name="recept_bank_copy">银行存根</string>
+    <string name="recept_batch_no">批次号</string>
+    <string name="recept_card_exp_date">卡片有效期</string>
+    <string name="recept_card_no">卡号</string>
+    <string name="recept_cardholder_copy">持卡人联</string>
+    <string name="recept_cardholder_sign"> 持卡人签名</string>
+    <string name="recept_cuurent_ec_amount">电子现金余额:</string>
+    <string name="recept_date">日期/时间</string>
+    <string name="recept_enquiry_amount">当前余额</string>
+    <string name="recept_issuer">发卡行</string>
+    <string name="recept_merchant_copy">商户联</string>
+    <string name="recept_merchant_name">商户名称</string>
+    <string name="recept_merchant_no">商户编号</string>
+    <string name="recept_operator_no">操作员号</string>
+    <string name="recept_print_paper_out">缺纸</string>
+    <string name="recept_print_success">打印成功</string>
+    <string name="recept_print_unknown_err">未知错误</string>
+    <string name="recept_ref_no">参考号</string>
+    <string name="recept_reference">备注</string>
+    <string name="recept_reprint">***** 重打印 *****</string>
+    <string name="recept_rmb">RMB</string>
+    <string name="recept_terminal_no">终端编号</string>
+    <string name="recept_trace_no">流水号</string>
+    <string name="recept_tranc_type">交易类型</string>
+    <string name="recept_trans_aac">应用密文(AAC):</string>
+    <string name="recept_trans_aac_arqc">联机交易</string>
+    <string name="recept_trans_aac_tc">脱机交易</string>
+    <string name="result_bank_name">中信支付</string>
+    <string name="result_title">交易结果</string>
+    <string name="security_keyboard">华智融安全键盘</string>
+    <string name="setting_cancel">取消</string>
+    <string name="setting_change_maintain_pwd_succ">修改维护密码成功</string>
+    <string name="setting_changepwd_maintain">维护密码修改</string>
+    <string name="setting_check_oldpwd_err">原密码错误,无法修改</string>
+    <string name="setting_commun_public">开启公网地址通讯</string>
+    <string name="setting_commun_timeout">通讯超时时长(单位：S)</string>
+    <string name="setting_communication_para">通讯参数设置</string>
+    <string name="setting_confirm">确认</string>
+    <string name="setting_device_infos">设备信息查询</string>
+    <string name="setting_deviceinfo_cpu_abi">CPU_ABI</string>
+    <string name="setting_deviceinfo_display">分辨率</string>
+    <string name="setting_deviceinfo_model">设备型号</string>
+    <string name="setting_deviceinfo_product">设备厂商</string>
+    <string name="setting_deviceinfo_sdk">SDK版本</string>
+    <string name="setting_deviceinfo_sys">系统平台</string>
+    <string name="setting_err_loglist">错误日志列表</string>
+    <string name="setting_errlog_list_name">错误日志列表</string>
+    <string name="setting_exit_confirm">再按一次退出程序</string>
+    <string name="setting_func_cancel">退出</string>
+    <string name="setting_func_restore">恢复默认</string>
+    <string name="setting_func_save">保存</string>
+    <string name="setting_inner_ip">内网服务器域名/IP</string>
+    <string name="setting_inner_port">内网服务器端口</string>
+    <string name="setting_input_is_null">有些字段不能为空</string>
+    <string name="setting_keys_para">密钥参数设置</string>
+    <string name="setting_maintain_pwd_err">维护密码错误</string>
+    <string name="setting_maintain_pwd_set_err">设置维护密码失败</string>
+    <string name="setting_maintain_pwd_set_succ">设置维护密码成功</string>
+    <string name="setting_master_change_pwd">主管密码修改</string>
+    <string name="setting_master_new_pass_null">新主管密码不能为空</string>
+    <string name="setting_master_new_pwd">新主管密码</string>
+    <string name="setting_master_old_pwd">原主管密码</string>
+    <string name="setting_master_pass_err">主管密码错误</string>
+    <string name="setting_merchant_id">商户号</string>
+    <string name="setting_merchant_name">商户名称</string>
+    <string name="setting_mkey_data">设置主密钥</string>
+    <string name="setting_mkey_index">设置主密钥索引</string>
+    <string name="setting_mkey_len_err">密钥长度错误</string>
+    <string name="setting_mkey_type">设置密钥类型</string>
+    <string name="setting_mkey_type_des">DES</string>
+    <string name="setting_mkey_type_sm">国密</string>
+    <string name="setting_mkey_unknow_err">未知错误,错误代码</string>
+    <string name="setting_please_input_change_mp">修改维护密码</string>
+    <string name="setting_please_input_maintain_pwd">请输入维护密码</string>
+    <string name="setting_please_input_new_mp">新密码:</string>
+    <string name="setting_please_input_old_mp">原密码:</string>
+    <string name="setting_public_ip">公网服务器域名/IP</string>
+    <string name="setting_public_port">公网服务器端口</string>
+    <string name="setting_save_success">保存成功</string>
+    <string name="setting_terminal_id">终端号</string>
+    <string name="setting_trans_input_pass_revocation">消费撤销</string>
+    <string name="setting_trans_input_password">交易输密码参数</string>
+    <string name="setting_trans_merchant_info">商户信息</string>
+    <string name="setting_trans_reversal_count">冲正次数选择</string>
+    <string name="setting_trans_track_encrypt_switch">是否磁道加密</string>
+    <string name="setting_trans_transaction_batch">批次号</string>
+    <string name="setting_trans_transaction_exit_time">交易结果退出时间(单位：S)</string>
+    <string name="setting_trans_transaction_firm">商行代码</string>
+    <string name="setting_trans_transaction_max">最大交易数</string>
+    <string name="setting_trans_transaction_para">交易参数</string>
+    <string name="setting_trans_transaction_print">打印联数</string>
+    <string name="setting_trans_transaction_tpdu">TPDU头</string>
+    <string name="setting_trans_transaction_trace">流水号</string>
+    <string name="setting_trans_use_card">交易用卡参数</string>
+    <string name="setting_trans_use_contactless">使能非接</string>
+    <string name="setting_trans_wait_user_time">等待用户交互时间(单位：S)</string>
+    <string name="setting_transaction_para">交易参数设置</string>
+    <string name="trans_cancel">取消</string>
+    <string name="trans_confirm">确认</string>
+    <string name="trans_confirm_card">请确认您的卡号</string>
+    <string name="trans_confirm_cardno">请确认卡号</string>
+    <string name="trans_handling">交易处理中,请稍后</string>
+    <string name="trans_input_amount">请输入金额</string>
+    <string name="trans_input_master_pass">请输入主管密码</string>
+    <string name="trans_input_pass_warning">提示:输入密码时请注意环境周边安全</string>
+    <string name="trans_input_password">请输入密码</string>
+    <string name="trans_input_traceno">请输入交易流水号</string>
+    <string name="trans_insert_card">IC卡请从终端底部插入卡槽</string>
+    <string name="trans_offline_err">密码校验错误</string>
+    <string name="trans_offline_last">最后一次输入密码</string>
+    <string name="trans_offline_succ">密码校验正确</string>
+    <string name="trans_pat_card">把卡放在终端上端进行挥卡</string>
+    <string name="trans_sale_amount_empty_err">交易金额不能为空</string>
+    <string name="trans_sale_amount_len_err">最小长度: %1$s</string>
+    <string name="trans_sale_content_empty_err">内容不能为空</string>
+    <string name="trans_sale_input_timeout">输入超时</string>
+    <string name="trans_sale_input_user_cancel">取消输入</string>
+    <string name="trans_showinfo_trans">请确认交易</string>
+    <string name="trans_swipe_card">磁条卡请在右侧刷卡</string>
+    <string name="trans_terminal_no_aid">终端无AID,请先下载EMV参数</string>
+    <string name="trans_use_bank_card">请使用您的银行卡</string>
+    <string name="trans_use_barcode">请扫描二维码</string>
+    <string name="trans_void_manage_pwd_ok">管理员密码正确</string>
+    <string name="trans_wait_result">请等待交易结果</string>
+    <style name="AppBaseTheme" parent="android:Theme.Light">
+        <!--
+            Theme customizations available in newer API levels can go in
+            res/values-vXX/styles.xml, while customizations related to
+            backward-compatibility can go here.
+        -->
+    </style>
+    <style name="AppTheme" parent="AppBaseTheme">
+        <!-- All customizations that are NOT specific to a particular API-level can go here. -->
+    </style>
+    <style name="CenterDialog">
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowIsTranslucent">true</item>
+        <item name="android:windowContentOverlay">@null</item>
+        <item name="android:colorBackgroundCacheHint">@null</item>
+    </style>
+    <style name="Dialog" parent="android:style/Theme.Dialog">
+        <item name="android:background">#00000000</item>
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowIsFloating">true</item>
+    </style>
+    <style name="PopwindowAnimation_RightToLeft">
+        <item name="android:windowEnterAnimation">@anim/right2left</item>
+    </style>
+    <style name="Prompt">
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowIsTranslucent">true</item>
+        <item name="android:windowContentOverlay">@null</item>
+        <item name="android:colorBackgroundCacheHint">@null</item>
+    </style>
+    <style name="list_nodiv">
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">fill_parent</item>
+        <item name="android:divider">@null</item>
+        <item name="android:dividerHeight">0dp</item>
+        <item name="android:listSelector">@android:color/transparent</item>
+        <item name="android:cacheColorHint">@null</item>
+    </style>
+    <style name="sdw_79351b">
+        <item name="android:shadowColor">#ff79351b</item>
+        <item name="android:shadowDx">0.0</item>
+        <item name="android:shadowDy">1.0</item>
+        <item name="android:shadowRadius">1.0</item>
+    </style>
+    <style name="sdw_white">
+        <item name="android:shadowColor">#7fffffff</item>
+        <item name="android:shadowDx">0.0</item>
+        <item name="android:shadowDy">0.65</item>
+        <item name="android:shadowRadius">1.0</item>
+    </style>
+    <style name="text_15_666666_sdw" parent="@style/sdw_white">
+        <item name="android:textSize">15.0dip</item>
+        <item name="android:textColor">#ff666666</item>
+    </style>
+    <style name="text_15_ffffff_sdw" parent="@style/sdw_79351b">
+        <item name="android:textSize">15.0dip</item>
+        <item name="android:textColor">#ffffffff</item>
+    </style>
+    <style name="text_16_666666">
+        <item name="android:textSize">16.0dip</item>
+        <item name="android:textColor">#ff666666</item>
+    </style>
+    <style name="text_18_ffffff">
+        <item name="android:textSize">22.0dip</item>
+        <item name="android:textColor">#ffffffff</item>
+    </style>
+</resources>

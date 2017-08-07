@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:background="@color/white"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_marginLeft="10dp"
+        android:layout_marginTop="30dp"
+        android:layout_marginRight="10dp"
+        android:layout_weight="2"
+        android:layout_height="0dp">
+        <LinearLayout
+            android:background="@drawable/shape_roll_rectangle"
+            android:layout_width="match_parent"
+            android:orientation="vertical"
+            android:layout_height="match_parent">
+            <RelativeLayout
+                android:layout_width="match_parent"
+                android:layout_weight="2"
+                android:layout_height="0dp">
+                <ImageView
+                    android:src="@drawable/icon_costomer_single_logo"
+                    android:id="@+id/result_unionpay_img"
+                    android:layout_marginRight="10dp"
+                    android:layout_alignParentTop="true"
+                    android:layout_alignParentRight="true"
+                    android:layout_width="60dp"
+                    android:layout_height="60dp" />
+                <TextView
+                    android:id="@+id/china_unionpay_text"
+                    android:text="@string/result_bank_name"
+                    android:layout_toLeftOf="@+id/result_unionpay_img"
+                    android:textStyle="bold"
+                    android:textSize="15sp"
+                    android:layout_marginTop="20dp"
+                    android:textColor="@color/classicalblue"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content" />
+                <ImageView
+                    android:id="@+id/result_face_img"
+                    android:layout_centerVertical="true"
+                    android:layout_alignParentLeft="true"
+                    android:layout_marginLeft="30dp"
+                    android:src="@drawable/icon_result_face_laugh"
+                    android:layout_width="100dp"
+                    android:layout_height="100dp" />
+                <TextView
+                    android:layout_alignParentRight="true"
+                    android:layout_centerVertical="true"
+                    android:layout_marginTop="10dp"
+                    android:id="@+id/result_title"
+                    android:textColor="@color/green"
+                    android:layout_below="@+id/result_unionpay_img"
+                    android:textStyle="bold"
+                    android:layout_toRightOf="@+id/result_face_img"
+                    android:gravity="center_horizontal"
+                    android:layout_width="wrap_content"
+                    android:layout_height="match_parent" />
+            </RelativeLayout>
+            <RelativeLayout
+                android:layout_width="match_parent"
+                android:layout_weight="3"
+                android:layout_height="0dp">
+                <TextView
+                    android:id="@+id/result_detail"
+                    android:layout_centerInParent="true"
+                    android:layout_marginTop="10dp"
+                    android:gravity="center"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent" />
+            </RelativeLayout>
+        </LinearLayout>
+    </RelativeLayout>
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_margin="30dp"
+        android:layout_weight="1"
+        android:layout_height="0dp">
+        <ImageView
+            android:background="@drawable/icon_costomer_logo"
+            android:layout_centerInParent="true"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+    </RelativeLayout>
+</LinearLayout>

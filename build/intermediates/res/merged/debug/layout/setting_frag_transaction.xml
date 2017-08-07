@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.android.citic.lib.poplist.PopupListView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:background="@drawable/title_bar_bg"
+    android:id="@+id/setting_trans_poplist"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"/>

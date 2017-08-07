@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="horizontal"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <TextView
+        android:text="@string/setting_func_cancel"
+        android:background="@drawable/setting_func_cancel_bg"
+        android:textColor="@color/white"
+        android:onClick="setting_return"
+        android:clickable="true"
+        android:layout_width="100dp"
+        android:layout_height="35dp"
+        android:gravity="center" />
+    <TextView
+        android:id="@+id/setting_save"
+        android:text="@string/setting_func_save"
+        android:background="@drawable/setting_func_save_bg"
+        android:clickable="true"
+        android:textColor="@color/white"
+        android:gravity="center"
+        android:layout_width="100dp"
+        android:layout_height="35dp" />
+</LinearLayout>

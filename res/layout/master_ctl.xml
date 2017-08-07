@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:background="@drawable/icon_background"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <include
+        android:layout_height="match_parent"
+        android:layout_width="wrap_content"
+        layout="@layout/trans_input_amount"/>
+    <include
+        android:layout_height="match_parent"
+        android:layout_width="wrap_content"
+        layout="@layout/trans_input_password"/>
+    <include
+        android:layout_height="match_parent"
+        android:layout_width="wrap_content"
+        layout="@layout/trans_card_use"/>
+    <include
+        android:layout_height="match_parent"
+        android:layout_width="wrap_content"
+        layout="@layout/trans_confirm_cardno"/>
+    <include
+        android:layout_height="match_parent"
+        android:layout_width="wrap_content"
+        layout="@layout/trans_handling"/>
+    <include
+        android:layout_height="match_parent"
+        android:layout_width="wrap_content"
+        layout="@layout/trans_show_trans_info"/>
+</LinearLayout>

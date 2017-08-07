@@ -1,0 +1,190 @@
+[
+    {
+        "merged": "E:\\demo\\android\\9210DEMO_20170718\\9210DEMO_20170718\\CiticPay\\build\\intermediates\\res\\merged\\debug\\layout\\setting_frag_comun.xml",
+        "source": "E:\\demo\\android\\9210DEMO_20170718\\9210DEMO_20170718\\CiticPay\\res\\layout\\setting_frag_comun.xml"
+    },
+    {
+        "merged": "E:\\demo\\android\\9210DEMO_20170718\\9210DEMO_20170718\\CiticPay\\build\\intermediates\\res\\merged\\debug\\layout\\setting_frag_trans_item_carduse.xml",
+        "source": "E:\\demo\\android\\9210DEMO_20170718\\9210DEMO_20170718\\CiticPay\\res\\layout\\setting_frag_trans_item_carduse.xml"
+    },
+    {
+        "merged": "E:\\demo\\android\\9210DEMO_20170718\\9210DEMO_20170718\\CiticPay\\build\\intermediates\\res\\merged\\debug\\layout\\setting_check_maintain_pwd.xml",
+        "source": "E:\\demo\\android\\9210DEMO_20170718\\9210DEMO_20170718\\CiticPay\\res\\layout\\setting_check_maintain_pwd.xml"
+    },
+    {
+        "merged": "E:\\demo\\android\\9210DEMO_20170718\\9210DEMO_20170718\\CiticPay\\build\\intermediates\\res\\merged\\debug\\layout\\setting_frag_errlog.xml",
+        "source": "E:\\demo\\android\\9210DEMO_20170718\\9210DEMO_20170718\\CiticPay\\res\\layout\\setting_frag_errlog.xml"
+    },
+    {
+        "merged": "E:\\demo\\android\\9210DEMO_20170718\\9210DEMO_20170718\\CiticPay\\build\\intermediates\\res\\merged\\debug\\layout\\ip_edit_text.xml",
+        "source": "E:\\demo\\android\\9210DEMO_20170718\\9210DEMO_20170718\\CiticPay\\build\\intermediates\\exploded-aar\\CiticPay\\libapp\\unspecified\\res\\layout\\ip_edit_text.xml"
+    },
+    {
+        "merged": "E:\\demo\\android\\9210DEMO_20170718\\9210DEMO_20170718\\CiticPay\\build\\intermediates\\res\\merged\\debug\\layout\\poplist_item_test.xml",
+        "source": "E:\\demo\\android\\9210DEMO_20170718\\9210DEMO_20170718\\CiticPay\\res\\layout\\poplist_item_test.xml"
+    },
+    {
+        "merged": "E:\\demo\\android\\9210DEMO_20170718\\9210DEMO_20170718\\CiticPay\\build\\intermediates\\res\\merged\\debug\\layout\\setting_frag_title.xml",
+        "source": "E:\\demo\\android\\9210DEMO_20170718\\9210DEMO_20170718\\CiticPay\\res\\layout\\setting_frag_title.xml"
+    },
+    {
+        "merged": "E:\\demo\\android\\9210DEMO_20170718\\9210DEMO_20170718\\CiticPay\\build\\intermediates\\res\\merged\\debug\\layout\\setting_frag_trans_poplist_extend.xml",
+        "source": "E:\\demo\\android\\9210DEMO_20170718\\9210DEMO_20170718\\CiticPay\\res\\layout\\setting_frag_trans_poplist_extend.xml"
+    },
+    {
+        "merged": "E:\\demo\\android\\9210DEMO_20170718\\9210DEMO_20170718\\CiticPay\\build\\intermediates\\res\\merged\\debug\\layout\\trans_history_loglist_item.xml",
+        "source": "E:\\demo\\android\\9210DEMO_20170718\\9210DEMO_20170718\\CiticPay\\res\\layout\\trans_history_loglist_item.xml"
+    },
+    {
+        "merged": "E:\\demo\\android\\9210DEMO_20170718\\9210DEMO_20170718\\CiticPay\\build\\intermediates\\res\\merged\\debug\\layout\\setting_frag_trans_poplist_item_head.xml",
+        "source": "E:\\demo\\android\\9210DEMO_20170718\\9210DEMO_20170718\\CiticPay\\res\\layout\\setting_frag_trans_poplist_item_head.xml"
+    },
+    {
+        "merged": "E:\\demo\\android\\9210DEMO_20170718\\9210DEMO_20170718\\CiticPay\\build\\intermediates\\res\\merged\\debug\\layout\\poplist_extend_test.xml",
+        "source": "E:\\demo\\android\\9210DEMO_20170718\\9210DEMO_20170718\\CiticPay\\res\\layout\\poplist_extend_test.xml"
+    },
+    {
+        "merged": "E:\\demo\\android\\9210DEMO_20170718\\9210DEMO_20170718\\CiticPay\\build\\intermediates\\res\\merged\\debug\\layout\\setting_frag_transaction.xml",
+        "source": "E:\\demo\\android\\9210DEMO_20170718\\9210DEMO_20170718\\CiticPay\\res\\layout\\setting_frag_transaction.xml"
+    },
+    {
+        "merged": "E:\\demo\\android\\9210DEMO_20170718\\9210DEMO_20170718\\CiticPay\\build\\intermediates\\res\\merged\\debug\\layout\\main_title.xml",
+        "source": "E:\\demo\\android\\9210DEMO_20170718\\9210DEMO_20170718\\CiticPay\\res\\layout\\main_title.xml"
+    },
+    {
+        "merged": "E:\\demo\\android\\9210DEMO_20170718\\9210DEMO_20170718\\CiticPay\\build\\intermediates\\res\\merged\\debug\\layout\\result_ctl.xml",
+        "source": "E:\\demo\\android\\9210DEMO_20170718\\9210DEMO_20170718\\CiticPay\\res\\layout\\result_ctl.xml"
+    },
+    {
+        "merged": "E:\\demo\\android\\9210DEMO_20170718\\9210DEMO_20170718\\CiticPay\\build\\intermediates\\res\\merged\\debug\\layout\\settings.xml",
+        "source": "E:\\demo\\android\\9210DEMO_20170718\\9210DEMO_20170718\\CiticPay\\res\\layout\\settings.xml"
+    },
+    {
+        "merged": "E:\\demo\\android\\9210DEMO_20170718\\9210DEMO_20170718\\CiticPay\\build\\intermediates\\res\\merged\\debug\\layout\\main_content.xml",
+        "source": "E:\\demo\\android\\9210DEMO_20170718\\9210DEMO_20170718\\CiticPay\\res\\layout\\main_content.xml"
+    },
+    {
+        "merged": "E:\\demo\\android\\9210DEMO_20170718\\9210DEMO_20170718\\CiticPay\\build\\intermediates\\res\\merged\\debug\\layout\\notice_process.xml",
+        "source": "E:\\demo\\android\\9210DEMO_20170718\\9210DEMO_20170718\\CiticPay\\res\\layout\\notice_process.xml"
+    },
+    {
+        "merged": "E:\\demo\\android\\9210DEMO_20170718\\9210DEMO_20170718\\CiticPay\\build\\intermediates\\res\\merged\\debug\\layout\\app_toast.xml",
+        "source": "E:\\demo\\android\\9210DEMO_20170718\\9210DEMO_20170718\\CiticPay\\build\\intermediates\\exploded-aar\\CiticPay\\libapp\\unspecified\\res\\layout\\app_toast.xml"
+    },
+    {
+        "merged": "E:\\demo\\android\\9210DEMO_20170718\\9210DEMO_20170718\\CiticPay\\build\\intermediates\\res\\merged\\debug\\layout\\notice_popwindow.xml",
+        "source": "E:\\demo\\android\\9210DEMO_20170718\\9210DEMO_20170718\\CiticPay\\res\\layout\\notice_popwindow.xml"
+    },
+    {
+        "merged": "E:\\demo\\android\\9210DEMO_20170718\\9210DEMO_20170718\\CiticPay\\build\\intermediates\\res\\merged\\debug\\layout\\staged_list_item.xml",
+        "source": "E:\\demo\\android\\9210DEMO_20170718\\9210DEMO_20170718\\CiticPay\\build\\intermediates\\exploded-aar\\CiticPay\\libapp\\unspecified\\res\\layout\\staged_list_item.xml"
+    },
+    {
+        "merged": "E:\\demo\\android\\9210DEMO_20170718\\9210DEMO_20170718\\CiticPay\\build\\intermediates\\res\\merged\\debug\\layout\\setting_frag_trans_item_merchant.xml",
+        "source": "E:\\demo\\android\\9210DEMO_20170718\\9210DEMO_20170718\\CiticPay\\res\\layout\\setting_frag_trans_item_merchant.xml"
+    },
+    {
+        "merged": "E:\\demo\\android\\9210DEMO_20170718\\9210DEMO_20170718\\CiticPay\\build\\intermediates\\res\\merged\\debug\\layout\\setting_frag_trans_item_contactlessuse.xml",
+        "source": "E:\\demo\\android\\9210DEMO_20170718\\9210DEMO_20170718\\CiticPay\\res\\layout\\setting_frag_trans_item_contactlessuse.xml"
+    },
+    {
+        "merged": "E:\\demo\\android\\9210DEMO_20170718\\9210DEMO_20170718\\CiticPay\\build\\intermediates\\res\\merged\\debug\\layout\\trans_card_use.xml",
+        "source": "E:\\demo\\android\\9210DEMO_20170718\\9210DEMO_20170718\\CiticPay\\res\\layout\\trans_card_use.xml"
+    },
+    {
+        "merged": "E:\\demo\\android\\9210DEMO_20170718\\9210DEMO_20170718\\CiticPay\\build\\intermediates\\res\\merged\\debug\\layout\\trans_handling.xml",
+        "source": "E:\\demo\\android\\9210DEMO_20170718\\9210DEMO_20170718\\CiticPay\\res\\layout\\trans_handling.xml"
+    },
+    {
+        "merged": "E:\\demo\\android\\9210DEMO_20170718\\9210DEMO_20170718\\CiticPay\\build\\intermediates\\res\\merged\\debug\\layout\\setting_frag_deviceinfo.xml",
+        "source": "E:\\demo\\android\\9210DEMO_20170718\\9210DEMO_20170718\\CiticPay\\res\\layout\\setting_frag_deviceinfo.xml"
+    },
+    {
+        "merged": "E:\\demo\\android\\9210DEMO_20170718\\9210DEMO_20170718\\CiticPay\\build\\intermediates\\res\\merged\\debug\\layout\\trans_history.xml",
+        "source": "E:\\demo\\android\\9210DEMO_20170718\\9210DEMO_20170718\\CiticPay\\res\\layout\\trans_history.xml"
+    },
+    {
+        "merged": "E:\\demo\\android\\9210DEMO_20170718\\9210DEMO_20170718\\CiticPay\\build\\intermediates\\res\\merged\\debug\\layout\\citic_pay.xml",
+        "source": "E:\\demo\\android\\9210DEMO_20170718\\9210DEMO_20170718\\CiticPay\\res\\layout\\citic_pay.xml"
+    },
+    {
+        "merged": "E:\\demo\\android\\9210DEMO_20170718\\9210DEMO_20170718\\CiticPay\\build\\intermediates\\res\\merged\\debug\\layout\\setting_frag_trans_item_sys.xml",
+        "source": "E:\\demo\\android\\9210DEMO_20170718\\9210DEMO_20170718\\CiticPay\\res\\layout\\setting_frag_trans_item_sys.xml"
+    },
+    {
+        "merged": "E:\\demo\\android\\9210DEMO_20170718\\9210DEMO_20170718\\CiticPay\\build\\intermediates\\res\\merged\\debug\\layout\\trans_show_trans_info.xml",
+        "source": "E:\\demo\\android\\9210DEMO_20170718\\9210DEMO_20170718\\CiticPay\\res\\layout\\trans_show_trans_info.xml"
+    },
+    {
+        "merged": "E:\\demo\\android\\9210DEMO_20170718\\9210DEMO_20170718\\CiticPay\\build\\intermediates\\res\\merged\\debug\\layout\\setting_frag_trans_item_master.xml",
+        "source": "E:\\demo\\android\\9210DEMO_20170718\\9210DEMO_20170718\\CiticPay\\res\\layout\\setting_frag_trans_item_master.xml"
+    },
+    {
+        "merged": "E:\\demo\\android\\9210DEMO_20170718\\9210DEMO_20170718\\CiticPay\\build\\intermediates\\res\\merged\\debug\\layout\\setting_frag_trans_item_password.xml",
+        "source": "E:\\demo\\android\\9210DEMO_20170718\\9210DEMO_20170718\\CiticPay\\res\\layout\\setting_frag_trans_item_password.xml"
+    },
+    {
+        "merged": "E:\\demo\\android\\9210DEMO_20170718\\9210DEMO_20170718\\CiticPay\\build\\intermediates\\res\\merged\\debug\\layout\\trans_input_amount.xml",
+        "source": "E:\\demo\\android\\9210DEMO_20170718\\9210DEMO_20170718\\CiticPay\\res\\layout\\trans_input_amount.xml"
+    },
+    {
+        "merged": "E:\\demo\\android\\9210DEMO_20170718\\9210DEMO_20170718\\CiticPay\\build\\intermediates\\res\\merged\\debug\\layout\\custom_dialog_normal_edit.xml",
+        "source": "E:\\demo\\android\\9210DEMO_20170718\\9210DEMO_20170718\\CiticPay\\res\\layout\\custom_dialog_normal_edit.xml"
+    },
+    {
+        "merged": "E:\\demo\\android\\9210DEMO_20170718\\9210DEMO_20170718\\CiticPay\\build\\intermediates\\res\\merged\\debug\\layout\\winphone_item.xml",
+        "source": "E:\\demo\\android\\9210DEMO_20170718\\9210DEMO_20170718\\CiticPay\\res\\layout\\winphone_item.xml"
+    },
+    {
+        "merged": "E:\\demo\\android\\9210DEMO_20170718\\9210DEMO_20170718\\CiticPay\\build\\intermediates\\res\\merged\\debug\\layout\\setting_change_maintain_pwd.xml",
+        "source": "E:\\demo\\android\\9210DEMO_20170718\\9210DEMO_20170718\\CiticPay\\res\\layout\\setting_change_maintain_pwd.xml"
+    },
+    {
+        "merged": "E:\\demo\\android\\9210DEMO_20170718\\9210DEMO_20170718\\CiticPay\\build\\intermediates\\res\\merged\\debug\\layout\\custom_dialog.xml",
+        "source": "E:\\demo\\android\\9210DEMO_20170718\\9210DEMO_20170718\\CiticPay\\res\\layout\\custom_dialog.xml"
+    },
+    {
+        "merged": "E:\\demo\\android\\9210DEMO_20170718\\9210DEMO_20170718\\CiticPay\\build\\intermediates\\res\\merged\\debug\\layout\\trans_input_password.xml",
+        "source": "E:\\demo\\android\\9210DEMO_20170718\\9210DEMO_20170718\\CiticPay\\res\\layout\\trans_input_password.xml"
+    },
+    {
+        "merged": "E:\\demo\\android\\9210DEMO_20170718\\9210DEMO_20170718\\CiticPay\\build\\intermediates\\res\\merged\\debug\\layout\\trans_history_nodata.xml",
+        "source": "E:\\demo\\android\\9210DEMO_20170718\\9210DEMO_20170718\\CiticPay\\res\\layout\\trans_history_nodata.xml"
+    },
+    {
+        "merged": "E:\\demo\\android\\9210DEMO_20170718\\9210DEMO_20170718\\CiticPay\\build\\intermediates\\res\\merged\\debug\\layout\\setting_frag_bottom.xml",
+        "source": "E:\\demo\\android\\9210DEMO_20170718\\9210DEMO_20170718\\CiticPay\\res\\layout\\setting_frag_bottom.xml"
+    },
+    {
+        "merged": "E:\\demo\\android\\9210DEMO_20170718\\9210DEMO_20170718\\CiticPay\\build\\intermediates\\res\\merged\\debug\\layout\\trans_confirm_cardno.xml",
+        "source": "E:\\demo\\android\\9210DEMO_20170718\\9210DEMO_20170718\\CiticPay\\res\\layout\\trans_confirm_cardno.xml"
+    },
+    {
+        "merged": "E:\\demo\\android\\9210DEMO_20170718\\9210DEMO_20170718\\CiticPay\\build\\intermediates\\res\\merged\\debug\\layout\\search_filter_item.xml",
+        "source": "E:\\demo\\android\\9210DEMO_20170718\\9210DEMO_20170718\\CiticPay\\build\\intermediates\\exploded-aar\\CiticPay\\libapp\\unspecified\\res\\layout\\search_filter_item.xml"
+    },
+    {
+        "merged": "E:\\demo\\android\\9210DEMO_20170718\\9210DEMO_20170718\\CiticPay\\build\\intermediates\\res\\merged\\debug\\layout\\setting_frag_keys.xml",
+        "source": "E:\\demo\\android\\9210DEMO_20170718\\9210DEMO_20170718\\CiticPay\\res\\layout\\setting_frag_keys.xml"
+    },
+    {
+        "merged": "E:\\demo\\android\\9210DEMO_20170718\\9210DEMO_20170718\\CiticPay\\build\\intermediates\\res\\merged\\debug\\layout\\top_navigation.xml",
+        "source": "E:\\demo\\android\\9210DEMO_20170718\\9210DEMO_20170718\\CiticPay\\res\\layout\\top_navigation.xml"
+    },
+    {
+        "merged": "E:\\demo\\android\\9210DEMO_20170718\\9210DEMO_20170718\\CiticPay\\build\\intermediates\\res\\merged\\debug\\layout\\master_ctl.xml",
+        "source": "E:\\demo\\android\\9210DEMO_20170718\\9210DEMO_20170718\\CiticPay\\res\\layout\\master_ctl.xml"
+    },
+    {
+        "merged": "E:\\demo\\android\\9210DEMO_20170718\\9210DEMO_20170718\\CiticPay\\build\\intermediates\\res\\merged\\debug\\layout\\citic_opt.xml",
+        "source": "E:\\demo\\android\\9210DEMO_20170718\\9210DEMO_20170718\\CiticPay\\res\\layout\\citic_opt.xml"
+    },
+    {
+        "merged": "E:\\demo\\android\\9210DEMO_20170718\\9210DEMO_20170718\\CiticPay\\build\\intermediates\\res\\merged\\debug\\layout\\winphone_page.xml",
+        "source": "E:\\demo\\android\\9210DEMO_20170718\\9210DEMO_20170718\\CiticPay\\res\\layout\\winphone_page.xml"
+    },
+    {
+        "merged": "E:\\demo\\android\\9210DEMO_20170718\\9210DEMO_20170718\\CiticPay\\build\\intermediates\\res\\merged\\debug\\layout\\setting_item.xml",
+        "source": "E:\\demo\\android\\9210DEMO_20170718\\9210DEMO_20170718\\CiticPay\\res\\layout\\setting_item.xml"
+    }
+]

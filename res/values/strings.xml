@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- 程序字符串 -->
+    <string name="app_name">SZFPDEMO</string>
+    <string name="app_exception">程序异常奔溃</string>
+    <string name="app_locationing">定位中</string>
+    <string name="app_searchint">请搜索交易</string>
+    <string name="app_exit_confirm">再按一次退出程序</string>
+    <string name="setting_exit_confirm">再按一次退出程序</string>
+
+    <!-- 设置字符串 -->
+    <string name="setting_communication_para">通讯参数设置</string>
+    <string name="setting_transaction_para">交易参数设置</string>
+    <string name="setting_keys_para">密钥参数设置</string>
+    <string name="setting_changepwd_maintain">维护密码修改</string>
+    <string name="setting_err_loglist">错误日志列表</string>
+    <string name="setting_device_infos">设备信息查询</string>
+
+    <string name="setting_commun_timeout">通讯超时时长(单位：S)</string>
+    <string name="setting_commun_public">开启公网地址通讯</string>
+    <string name="setting_public_ip">公网服务器域名/IP</string>
+    <string name="setting_public_port">公网服务器端口</string>
+    <string name="setting_inner_ip">内网服务器域名/IP</string>
+    <string name="setting_inner_port">内网服务器端口</string>
+
+    <string name="setting_mkey_index">设置主密钥索引</string>
+    <string name="setting_mkey_data">设置主密钥</string>
+    <string name="setting_mkey_type">设置密钥类型</string>
+    <string name="setting_mkey_type_des">DES</string>
+    <string name="setting_mkey_type_sm">国密</string>
+
+    <string name="setting_func_save">保存</string>
+    <string name="setting_func_cancel">退出</string>
+    <string name="setting_func_restore">恢复默认</string>
+    <string name="setting_cancel">取消</string>
+    <string name="setting_confirm">确认</string>
+    <string name="setting_please_input_maintain_pwd">请输入维护密码</string>
+    <string name="setting_maintain_pwd_err">维护密码错误</string>
+    <string name="setting_maintain_pwd_set_succ">设置维护密码成功</string>
+    <string name="setting_maintain_pwd_set_err">设置维护密码失败</string>
+    <string name="setting_please_input_change_mp">修改维护密码</string>
+    <string name="setting_please_input_old_mp">原密码:</string>
+    <string name="setting_please_input_new_mp">新密码:</string>
+    <string name="setting_check_oldpwd_err">原密码错误,无法修改</string>
+    <string name="setting_change_maintain_pwd_succ">修改维护密码成功</string>
+
+    <string name="setting_master_pass_err">主管密码错误</string>
+    <string name="setting_master_new_pass_null">新主管密码不能为空</string>
+
+    <string name="setting_errlog_list_name">错误日志列表</string>
+
+    <string name="setting_deviceinfo_product">设备厂商</string>
+    <string name="setting_deviceinfo_model">设备型号</string>
+    <string name="setting_deviceinfo_sdk">SDK版本</string>
+    <string name="setting_deviceinfo_cpu_abi">CPU_ABI</string>
+    <string name="setting_deviceinfo_sys">系统平台</string>
+    <string name="setting_deviceinfo_display">分辨率</string>
+
+    <string name="setting_save_success">保存成功</string>
+    <string name="setting_input_is_null">有些字段不能为空</string>
+    <string name="setting_mkey_len_err">密钥长度错误</string>
+    <string name="setting_mkey_unknow_err">未知错误,错误代码</string>
+
+
+    <string name="setting_trans_merchant_info">商户信息</string>
+    <string name="setting_merchant_id">商户号</string>
+    <string name="setting_merchant_name">商户名称</string>
+    <string name="setting_terminal_id">终端号</string>
+    <string name="setting_trans_transaction_para">交易参数</string>
+    <string name="setting_trans_transaction_trace">流水号</string>
+    <string name="setting_trans_transaction_batch">批次号</string>
+    <string name="setting_trans_transaction_print">打印联数</string>
+    <string name="setting_trans_transaction_max">最大交易数</string>
+    <string name="setting_trans_transaction_tpdu">TPDU头</string>
+    <string name="setting_trans_transaction_firm">商行代码</string>
+    <string name="setting_trans_transaction_exit_time">交易结果退出时间(单位：S)</string>
+    <string name="setting_trans_wait_user_time">等待用户交互时间(单位：S)</string>
+    <string name="setting_master_change_pwd">主管密码修改</string>
+    <string name="setting_master_old_pwd">原主管密码</string>
+    <string name="setting_master_new_pwd">新主管密码</string>
+    <string name="setting_trans_input_password">交易输密码参数</string>
+    <string name="setting_trans_input_pass_revocation">消费撤销</string>
+    <string name="setting_trans_use_card">交易用卡参数</string>
+    <string name="setting_trans_track_encrypt_switch">是否磁道加密</string>
+    <string name="setting_trans_reversal_count">冲正次数选择</string>
+    <string name="setting_trans_use_contactless">使能非接</string>
+    <!-- 交易字符串 -->
+    <string name="trans_input_amount">请输入金额</string>
+    <string name="trans_offline_succ">密码校验正确</string>
+    <string name="trans_offline_last">最后一次输入密码</string>
+    <string name="trans_offline_err">密码校验错误</string>
+    <string name="trans_input_password">请输入密码</string>
+    <string name="trans_confirm">确认</string>
+    <string name="trans_cancel">取消</string>
+    <string name="trans_use_bank_card">请使用您的银行卡</string>
+    <string name="trans_showinfo_trans">请确认交易</string>
+    <string name="trans_swipe_card">磁条卡请在右侧刷卡</string>
+    <string name="trans_insert_card">IC卡请从终端底部插入卡槽</string>
+    <string name="trans_pat_card">把卡放在终端上端进行挥卡</string>
+    <string name="trans_confirm_cardno">请确认卡号</string>
+    <string name="trans_input_pass_warning">提示:输入密码时请注意环境周边安全</string>
+    <string name="trans_handling">交易处理中,请稍后</string>
+    <string name="trans_wait_result">请等待交易结果</string>
+    <string name="trans_use_barcode">请扫描二维码</string>
+
+    <string name="trans_sale_amount_len_err">最小长度: %1$s</string>
+    <string name="trans_sale_amount_empty_err">交易金额不能为空</string>
+    <string name="trans_sale_content_empty_err">内容不能为空</string>
+    <string name="trans_sale_input_timeout">输入超时</string>
+    <string name="trans_sale_input_user_cancel">取消输入</string>
+
+    <string name="trans_input_master_pass">请输入主管密码</string>
+    <string name="trans_input_traceno">请输入交易流水号</string>
+
+    <string name="trans_terminal_no_aid">终端无AID,请先下载EMV参数</string>
+
+    <string name="trans_confirm_card">请确认您的卡号</string>
+    <string name="trans_void_manage_pwd_ok">管理员密码正确</string>
+
+    <!-- 结果显示字符-->
+    <string name="result_bank_name">中信支付</string>
+    <string name="result_title">交易结果</string>
+
+
+    <string name="input_invoke_manager_para_err">调用输入管理器参数错误</string>
+
+    <string name="history_transaction_detail">交易日志</string>
+    <string name="history_search_hint">请输入交易流水号</string>
+    <string name="history_no_trans">没有当前交易明细</string>
+    <string name="history_is_null">无交易记录</string>
+    <string name="log_trans_is_rever">已撤销</string>
+
+    <!-- 打印凭条字符 -->
+    <string name="recept_merchant_copy">商户联</string>
+    <string name="recept_cardholder_copy">持卡人联</string>
+    <string name="recept_bank_copy">银行存根</string>
+    <string name="recept_merchant_name">商户名称</string>
+    <string name="recept_merchant_no">商户编号</string>
+    <string name="recept_terminal_no">终端编号</string>
+    <string name="recept_operator_no">操作员号</string>
+    <string name="recept_card_no">卡号</string>
+    <string name="recept_issuer">发卡行</string>
+    <string name="recept_acquirer">收单行</string>
+    <string name="recept_tranc_type">交易类型</string>
+    <string name="recept_card_exp_date">卡片有效期</string>
+    <string name="recept_batch_no">批次号</string>
+    <string name="recept_trace_no">流水号</string>
+    <string name="recept_auth_no">授权码</string>
+    <string name="recept_date">日期/时间</string>
+    <string name="recept_ref_no">参考号</string>
+    <string name="recept_amoun">金额</string>
+    <string name="recept_rmb">RMB</string>
+    <string name="recept_reference">备注</string>
+    <string name="recept_reprint">***** 重打印 *****</string>
+    <string name="recept_cardholder_sign"> 持卡人签名</string>
+    <string name="recept_agree_trans">本人同意以上交易</string>
+    <string name="recept_trans_aac">应用密文(AAC):</string>
+    <string name="recept_trans_aac_arqc">联机交易</string>
+    <string name="recept_trans_aac_tc">脱机交易</string>
+
+    <string name="recept_enquiry_amount">当前余额</string>
+    <string name="recept_cuurent_ec_amount">电子现金余额:</string>
+
+    <string name="recept_print_success">打印成功</string>
+    <string name="recept_print_paper_out">缺纸</string>
+    <string name="recept_print_unknown_err">未知错误</string>
+    <string name="pop_reprint">重打印</string>
+    <string name="pop_reprint_10">10笔打印测试</string>
+    <string name="pop_printing">打印中，请稍后</string>
+
+    <string name="operator_pwd_err">操作员密码错误</string>
+    <string name="logon_disp">操作员登录</string>
+    <string name="security_keyboard">华智融安全键盘</string>
+
+
+
+    <item name="tag_item_user" type="id"></item>
+    <item name="tag_item_history_trans" type="id"></item>
+
+    <string name="only_can_input">qwertyuioplkjhgfdsazxcvbnmQWERTYUIOPLKJHGFDSAZXCVBNM1234567890</string>
+    <string name="only_hex_input">abcdefABCDEF0123456789</string>
+</resources>
