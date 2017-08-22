@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="com.android.citic"
-    android:versionCode="1708071720"
-    android:versionName="citic-1708071720" >
+    android:versionCode="1708221802"
+    android:versionName="citic-1708221802" >
 
     <uses-sdk
         android:minSdkVersion="19"

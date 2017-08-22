@@ -8,6 +8,6 @@ public final class BuildConfig {
   public static final String APPLICATION_ID = "com.android.citic.test";
   public static final String BUILD_TYPE = "debug";
   public static final String FLAVOR = "";
-  public static final int VERSION_CODE = 1708070947;
-  public static final String VERSION_NAME = "citic-1708070947";
+  public static final int VERSION_CODE = 1708221802;
+  public static final String VERSION_NAME = "citic-1708221802";
 }
