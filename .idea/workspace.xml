@@ -22,318 +22,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="26467558-da48-4ea7-a552-787d5a8a06dc" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-hdpi/icon_costomer_single_logo.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-hdpi/logo.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/markdown-navigator/profiles_settings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/generated/source/apt/debug/com/android/citic/appmanager/CiticPay$$ViewBinder.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/generated/source/apt/debug/com/android/citic/appmanager/Operator$$ViewBinder.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/generated/source/apt/debug/com/android/citic/appmanager/history/HistoryTrans$$ViewBinder.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/generated/source/apt/debug/com/android/citic/appmanager/setting/Settings$$ViewBinder.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/generated/source/apt/debug/com/android/citic/appmanager/trans/Masterctl$$ViewBinder.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/generated/source/apt/debug/com/android/citic/appmanager/trans/Resultctl$$ViewBinder.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/generated/source/r/debug/com/example/libapp/R.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/assets/debug/aid.dat" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/assets/debug/capk.dat" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/assets/debug/gif/dyn_insert.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/assets/debug/gif/dyn_pat.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/assets/debug/gif/dyn_swipe.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/assets/debug/props/bankcodelist.properties" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/assets/debug/props/iso8583attr.properties" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/assets/debug/props/rspcode.properties" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/assets/debug/props/trans.properties" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/assets/debug/status/err.properties" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/assets/debug/status/status.properties" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/assets/debug/translog.dat" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/blame/res/debug/single/mipmap-hdpi-v4.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/blame/res/debug/single/mipmap-mdpi-v4.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/blame/res/debug/single/mipmap-xhdpi-v4.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/blame/res/debug/single/mipmap-xxhdpi-v4.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/blame/res/debug/single/mipmap-xxxhdpi-v4.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/androidTest/debug/com/android/citic/test/BuildConfig.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/android/citic/BuildConfig.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/android/citic/R$anim.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/android/citic/R$array.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/android/citic/R$attr.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/android/citic/R$color.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/android/citic/R$dimen.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/android/citic/R$drawable.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/android/citic/R$id.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/android/citic/R$integer.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/android/citic/R$layout.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/android/citic/R$menu.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/android/citic/R$mipmap.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/android/citic/R$string.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/android/citic/R$style.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/android/citic/R$styleable.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/android/citic/R.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/android/citic/appmanager/CiticPay$$ViewBinder.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/android/citic/appmanager/CiticPay$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/android/citic/appmanager/CiticPay$2.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/android/citic/appmanager/CiticPay.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/android/citic/appmanager/Citicapp$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/android/citic/appmanager/Citicapp.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/android/citic/appmanager/Operator$$ViewBinder.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/android/citic/appmanager/Operator.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/android/citic/appmanager/history/HistoryAdapter$ViewHold.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/android/citic/appmanager/history/HistoryAdapter.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/android/citic/appmanager/history/HistoryTrans$$ViewBinder.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/android/citic/appmanager/history/HistoryTrans$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/android/citic/appmanager/history/HistoryTrans$2.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/android/citic/appmanager/history/HistoryTrans$3.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/android/citic/appmanager/history/HistoryTrans$4.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/android/citic/appmanager/history/HistoryTrans$5.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/android/citic/appmanager/history/HistoryTrans.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/android/citic/appmanager/history/HistorylogAdapter$ViewHold.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/android/citic/appmanager/history/HistorylogAdapter.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/android/citic/appmanager/log/Crashandler$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/android/citic/appmanager/log/Crashandler.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/android/citic/appmanager/log/Logger.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/android/citic/appmanager/master/BaseActivity$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/android/citic/appmanager/master/BaseActivity$2.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/android/citic/appmanager/master/BaseActivity$CDT.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/android/citic/appmanager/master/BaseActivity.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/android/citic/appmanager/master/NavigationConfig.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/android/citic/appmanager/master/TopNavigation.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/android/citic/appmanager/setting/Settings$$ViewBinder.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/android/citic/appmanager/setting/Settings$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/android/citic/appmanager/setting/Settings$2.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/android/citic/appmanager/setting/Settings.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/android/citic/appmanager/setting/fragments/CommunFrags$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/android/citic/appmanager/setting/fragments/CommunFrags.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/android/citic/appmanager/setting/fragments/DeviceFrags.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/android/citic/appmanager/setting/fragments/ErrlogFrags$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/android/citic/appmanager/setting/fragments/ErrlogFrags.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/android/citic/appmanager/setting/fragments/KeysparaFrags.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/android/citic/appmanager/setting/fragments/TransparaFrags$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/android/citic/appmanager/setting/fragments/TransparaFrags$10.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/android/citic/appmanager/setting/fragments/TransparaFrags$11.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/android/citic/appmanager/setting/fragments/TransparaFrags$12.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/android/citic/appmanager/setting/fragments/TransparaFrags$13.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/android/citic/appmanager/setting/fragments/TransparaFrags$14.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/android/citic/appmanager/setting/fragments/TransparaFrags$15.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/android/citic/appmanager/setting/fragments/TransparaFrags$16.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/android/citic/appmanager/setting/fragments/TransparaFrags$17.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/android/citic/appmanager/setting/fragments/TransparaFrags$18.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/android/citic/appmanager/setting/fragments/TransparaFrags$2.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/android/citic/appmanager/setting/fragments/TransparaFrags$3.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/android/citic/appmanager/setting/fragments/TransparaFrags$4.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/android/citic/appmanager/setting/fragments/TransparaFrags$5.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/android/citic/appmanager/setting/fragments/TransparaFrags$6.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/android/citic/appmanager/setting/fragments/TransparaFrags$7.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/android/citic/appmanager/setting/fragments/TransparaFrags$8.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/android/citic/appmanager/setting/fragments/TransparaFrags$9.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/android/citic/appmanager/setting/fragments/TransparaFrags.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/android/citic/appmanager/trans/Masterctl$$ViewBinder.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/android/citic/appmanager/trans/Masterctl$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/android/citic/appmanager/trans/Masterctl$10.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/android/citic/appmanager/trans/Masterctl$11.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/android/citic/appmanager/trans/Masterctl$2.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/android/citic/appmanager/trans/Masterctl$3.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/android/citic/appmanager/trans/Masterctl$4.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/android/citic/appmanager/trans/Masterctl$5.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/android/citic/appmanager/trans/Masterctl$6.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/android/citic/appmanager/trans/Masterctl$7.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/android/citic/appmanager/trans/Masterctl$8.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/android/citic/appmanager/trans/Masterctl$9.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/android/citic/appmanager/trans/Masterctl.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/android/citic/appmanager/trans/PagerItem.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/android/citic/appmanager/trans/Resultctl$$ViewBinder.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/android/citic/appmanager/trans/Resultctl.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/android/citic/transmanager/device/barcode/BarcodeInfo.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/android/citic/transmanager/device/barcode/BarcodeListener.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/android/citic/transmanager/device/barcode/BarcodeManager$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/android/citic/transmanager/device/barcode/BarcodeManager.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/android/citic/transmanager/device/card/CardInfo.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/android/citic/transmanager/device/card/CardListener.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/android/citic/transmanager/device/card/CardManager$1$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/android/citic/transmanager/device/card/CardManager$1$2.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/android/citic/transmanager/device/card/CardManager$1$3.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/android/citic/transmanager/device/card/CardManager$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/android/citic/transmanager/device/card/CardManager.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/android/citic/transmanager/device/input/InputInfo.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/android/citic/transmanager/device/input/InputListener.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/android/citic/transmanager/device/input/InputManager$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/android/citic/transmanager/device/input/InputManager$2.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/android/citic/transmanager/device/input/InputManager$3.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/android/citic/transmanager/device/input/InputManager$4.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/android/citic/transmanager/device/input/InputManager$5.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/android/citic/transmanager/device/input/InputManager$EditChangeXsTwoListener.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/android/citic/transmanager/device/input/InputManager$EditChangedPwdListener$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/android/citic/transmanager/device/input/InputManager$EditChangedPwdListener.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/android/citic/transmanager/device/input/InputManager$KeyListener.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/android/citic/transmanager/device/input/InputManager.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/android/citic/transmanager/device/pinpad/MasterKeyinfo.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/android/citic/transmanager/device/pinpad/PinInfo.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/android/citic/transmanager/device/pinpad/PinpadListener.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/android/citic/transmanager/device/pinpad/PinpadManager$1$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/android/citic/transmanager/device/pinpad/PinpadManager$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/android/citic/transmanager/device/pinpad/PinpadManager.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/android/citic/transmanager/device/pinpad/WorkKeyinfo.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/android/citic/transmanager/device/printer/PrintManager$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/android/citic/transmanager/device/printer/PrintManager.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/android/citic/transmanager/device/printer/PrintRes$CH.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/android/citic/transmanager/device/printer/PrintRes$EN.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/android/citic/transmanager/device/printer/PrintRes.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/android/citic/transmanager/global/GlobalCfg.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/android/citic/transmanager/global/PrinterLang.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/android/citic/transmanager/global/PrinterTicknum.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/android/citic/transmanager/paras/CapkInfo.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/android/citic/transmanager/paras/EmvAidInfo.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/android/citic/transmanager/paras/EmvCapkInfo.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/android/citic/transmanager/paras/TerminalAid.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/android/citic/transmanager/process/EmvTransaction$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/android/citic/transmanager/process/EmvTransaction$2.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/android/citic/transmanager/process/EmvTransaction.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/android/citic/transmanager/process/QpbocTransaction$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/android/citic/transmanager/process/QpbocTransaction$2.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/android/citic/transmanager/process/QpbocTransaction.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/android/citic/transmanager/trans/Tcode$Status.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/android/citic/transmanager/trans/Tcode.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/android/citic/transmanager/trans/Trans$Type.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/android/citic/transmanager/trans/Trans.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/android/citic/transmanager/trans/TransInputPara.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/android/citic/transmanager/trans/finace/FinanceTrans.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/android/citic/transmanager/trans/finace/barcode_sale/BarcodeSaleTrans.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/android/citic/transmanager/trans/finace/ec_query/EC_EnquiryTrans.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/android/citic/transmanager/trans/finace/query/EnquiryTrans.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/android/citic/transmanager/trans/finace/quickpass/Quick_PassTrans.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/android/citic/transmanager/trans/finace/revocation/VoidTrans.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/android/citic/transmanager/trans/finace/sale/SaleTrans.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/android/citic/transmanager/trans/finace/settle/SettleTrans.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/android/citic/transmanager/trans/helper/iso8583/FieldAttr.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/android/citic/transmanager/trans/helper/iso8583/FieldTypesDefine.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/android/citic/transmanager/trans/helper/iso8583/ISO8583.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/android/citic/transmanager/trans/helper/translog/TransLog.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/android/citic/transmanager/trans/helper/translog/TransLogData.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/android/citic/transmanager/trans/helper/utils/TLVUtil$EMVTLV.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/android/citic/transmanager/trans/helper/utils/TLVUtil.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/android/citic/transmanager/trans/manager/DparaTrans.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/android/citic/transmanager/trans/manager/LogonTrans.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/android/citic/transmanager/trans/manager/LogoutTrans.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/android/citic/transmanager/trans/manager/RevesalTrans.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/android/citic/transmanager/trans/manager/ScriptTrans.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/android/citic/transmanager/trans/presenter/TransPresenter.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/android/citic/transmanager/trans/presenter/TransUI.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/example/libapp/R$anim.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/example/libapp/R$attr.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/example/libapp/R$color.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/example/libapp/R$drawable.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/example/libapp/R$id.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/example/libapp/R$layout.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/example/libapp/R$string.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/example/libapp/R$style.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/example/libapp/R$styleable.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/example/libapp/R.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/dex-cache/cache.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/exploded-aar/CiticPay/libapp/unspecified/R.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/exploded-aar/CiticPay/libapp/unspecified/jars/libs/BaiduLBS_Android.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/exploded-aar/CiticPay/libapp/unspecified/jars/libs/butterknife-7.0.1.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/exploded-aar/CiticPay/libapp/unspecified/jars/libs/commons-lang-2.6.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/exploded-aar/CiticPay/libapp/unspecified/jars/libs/desertview-1.0.1.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/exploded-aar/CiticPay/libapp/unspecified/jars/libs/gson-2.3.1.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/exploded-aar/CiticPay/libapp/unspecified/jars/libs/xxdroid.support.v4.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/exploded-aar/CiticPay/libapp/unspecified/jni/armeabi-v7a/libBaiduMapSDK_v3_5_0_15.so" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/exploded-aar/CiticPay/libapp/unspecified/jni/armeabi-v7a/libJbigJNI.so" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/exploded-aar/CiticPay/libapp/unspecified/jni/armeabi-v7a/libjbigconvert.so" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/exploded-aar/CiticPay/libapp/unspecified/jni/armeabi-v7a/liblocSDK4d.so" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/exploded-aar/CiticPay/libapp/unspecified/jni/armeabi-v7a/liblocSDK6a.so" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/exploded-aar/CiticPay/libapp/unspecified/jni/armeabi/libBaiduMapSDK_v3_5_0_15.so" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/exploded-aar/CiticPay/libapp/unspecified/jni/armeabi/libJbigJNI.so" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/exploded-aar/CiticPay/libapp/unspecified/jni/armeabi/libjbigconvert.so" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/exploded-aar/CiticPay/libapp/unspecified/jni/armeabi/liblocSDK4d.so" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/exploded-aar/CiticPay/libapp/unspecified/jni/armeabi/liblocSDK6a.so" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/incremental-safeguard/androidTest/debug/tag.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/incremental-safeguard/debug/tag.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/incremental/mergeDebugAssets/merger.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/incremental/mergeDebugJniLibFolders/merger.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/incremental/mergeDebugShaders/merger.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/incremental/packageDebug/dex-renamer-state.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/incremental/packageDebug/file-input-save-data.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/incremental/packageDebug/zip-cache/RKObnqbrEB0pLC6dMBIIvOWROoA=" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/incremental/packageDebug/zip-cache/VuUjDO+r4LGH6vlSmGY8AnnFHfw=" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/pre-dexed/debug/BaiduLBS_Android_0b75b7be291dd0dd6867b4d09f8a3b439613b603.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/pre-dexed/debug/CiticPay-libapp-unspecified_837e7dea44feb854b15c696eeb5225cc4f970405.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/pre-dexed/debug/butterknife-7.0.1_9980c18f696539054b772efbd994893e39d74b50.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/pre-dexed/debug/com.android.support-support-compat-24.2.1_3e3c9660dc6b2f0a5d2b06d4aefa71e964e03b55.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-24.2.1_eac05ddef05e73421792dbd4cbc7df82cd2e72f0.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-24.2.1_3d1bc86a9231c875ca04a26fd90eb58ca3a4eca3.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-24.2.1_0b641a7cd08326e00f3e89a702dbdf1ec99de10b.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-24.2.1_e5c2bc1072c822d12fdc2ed2a30f8f636539c7b1.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/pre-dexed/debug/com.android.support-support-v4-24.2.1_bc1aa099a804731b36abd0f70311206c997cd269.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/pre-dexed/debug/commons-lang-2.6_2297019832591bcd9f4e1371c7a20599d10949d2.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/pre-dexed/debug/debug_3753e9aa6a859da56755f1fa93d0d8c200cd64b5.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/pre-dexed/debug/desertview-1.0.1_c4a2f0671d478b6c0b145a70b0cff46dd72995dd.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/pre-dexed/debug/gson-2.3.1_a13b92bea16bea57340812dcc787322ea956b717.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_03bcf65f3f8b8ac934e865a6960a81d4500669ac.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_0ad2953fbdb313e5e9d48bf8554b937893db5dbb.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_2526ac18ab07dace3a99500bcfbcc48e1ce9807f.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_52e009f90d8fda57695b367a23fd36b76071cff5.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_7905b5a636817387f691902d37d1428496cb6b6f.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/pre-dexed/debug/support-annotations-24.2.1_3da8aba535b2d66340de0f64ce288fd79dc55455.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/pre-dexed/debug/xxdroid.support.v4_a492a050a22a56b122d7e2d4746ee1e9676c169d.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/res/merged/debug/drawable-hdpi-v4/icon_costomer_single_logo.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/res/merged/debug/mipmap-hdpi-v4/ic_launcher.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/res/merged/debug/mipmap-mdpi-v4/ic_launcher.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/res/merged/debug/mipmap-xhdpi-v4/ic_launcher.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/res/merged/debug/mipmap-xxhdpi-v4/ic_launcher.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/res/merged/debug/mipmap-xxxhdpi-v4/ic_launcher.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/transforms/dex/debug/folders/1000/1f/main/classes.dex" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/transforms/mergeJavaRes/debug/folders/2/1f/main/META-INF/services/javax.annotation.processing.Processor" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/transforms/mergeJavaRes/debug/jars/2/1f/main.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/transforms/mergeJniLibs/debug/folders/2000/1f/main/lib/armeabi-v7a/libBaiduMapSDK_v3_5_0_15.so" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/transforms/mergeJniLibs/debug/folders/2000/1f/main/lib/armeabi-v7a/libJbigJNI.so" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/transforms/mergeJniLibs/debug/folders/2000/1f/main/lib/armeabi-v7a/libjbigconvert.so" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/transforms/mergeJniLibs/debug/folders/2000/1f/main/lib/armeabi-v7a/liblocSDK4d.so" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/transforms/mergeJniLibs/debug/folders/2000/1f/main/lib/armeabi-v7a/liblocSDK6a.so" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/transforms/mergeJniLibs/debug/folders/2000/1f/main/lib/armeabi/libBaiduMapSDK_v3_5_0_15.so" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/transforms/mergeJniLibs/debug/folders/2000/1f/main/lib/armeabi/libJbigJNI.so" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/transforms/mergeJniLibs/debug/folders/2000/1f/main/lib/armeabi/libjbigconvert.so" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/transforms/mergeJniLibs/debug/folders/2000/1f/main/lib/armeabi/liblocSDK4d.so" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/transforms/mergeJniLibs/debug/folders/2000/1f/main/lib/armeabi/liblocSDK6a.so" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/transforms/stripDebugSymbol/debug/folders/2000/1f/main/lib/armeabi-v7a/libBaiduMapSDK_v3_5_0_15.so" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/transforms/stripDebugSymbol/debug/folders/2000/1f/main/lib/armeabi-v7a/libJbigJNI.so" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/transforms/stripDebugSymbol/debug/folders/2000/1f/main/lib/armeabi-v7a/libjbigconvert.so" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/transforms/stripDebugSymbol/debug/folders/2000/1f/main/lib/armeabi-v7a/liblocSDK4d.so" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/transforms/stripDebugSymbol/debug/folders/2000/1f/main/lib/armeabi-v7a/liblocSDK6a.so" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/transforms/stripDebugSymbol/debug/folders/2000/1f/main/lib/armeabi/libBaiduMapSDK_v3_5_0_15.so" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/transforms/stripDebugSymbol/debug/folders/2000/1f/main/lib/armeabi/libJbigJNI.so" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/transforms/stripDebugSymbol/debug/folders/2000/1f/main/lib/armeabi/libjbigconvert.so" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/transforms/stripDebugSymbol/debug/folders/2000/1f/main/lib/armeabi/liblocSDK4d.so" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/transforms/stripDebugSymbol/debug/folders/2000/1f/main/lib/armeabi/liblocSDK6a.so" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/outputs/apk/CiticPay-debug.apk" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/res/drawable-hdpi/citic_logo.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/res/drawable-hdpi/icon_costomer_single_logo.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/res/mipmap-hdpi/ic_launcher.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/res/mipmap-mdpi/ic_launcher.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/res/mipmap-xhdpi/ic_launcher.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/res/mipmap-xxhdpi/ic_launcher.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/res/mipmap-xxxhdpi/ic_launcher.jpg" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.14.1/taskArtifacts/cache.properties.lock" afterPath="$PROJECT_DIR$/.gradle/2.14.1/taskArtifacts/cache.properties.lock" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.14.1/taskArtifacts/fileHashes.bin" afterPath="$PROJECT_DIR$/.gradle/2.14.1/taskArtifacts/fileHashes.bin" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.14.1/taskArtifacts/fileSnapshots.bin" afterPath="$PROJECT_DIR$/.gradle/2.14.1/taskArtifacts/fileSnapshots.bin" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.14.1/taskArtifacts/fileSnapshotsToTreeSnapshotsIndex.bin" afterPath="$PROJECT_DIR$/.gradle/2.14.1/taskArtifacts/fileSnapshotsToTreeSnapshotsIndex.bin" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.14.1/taskArtifacts/taskArtifacts.bin" afterPath="$PROJECT_DIR$/.gradle/2.14.1/taskArtifacts/taskArtifacts.bin" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.14.1/tasks/_compileDebugJavaWithJavac/localClassSetAnalysis/localClassSetAnalysis.lock" afterPath="$PROJECT_DIR$/.gradle/2.14.1/tasks/_compileDebugJavaWithJavac/localClassSetAnalysis/localClassSetAnalysis.lock" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.14.1/tasks/_compileDebugJavaWithJavac/localJarClasspathSnapshot/localJarClasspathSnapshot.lock" afterPath="$PROJECT_DIR$/.gradle/2.14.1/tasks/_compileDebugJavaWithJavac/localJarClasspathSnapshot/localJarClasspathSnapshot.lock" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/generated/mockable-android-24.jar" afterPath="$PROJECT_DIR$/build/generated/mockable-android-24.jar" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/exploded-aar/CiticPay/libapp/unspecified/jars/classes.jar" afterPath="$PROJECT_DIR$/build/intermediates/exploded-aar/CiticPay/libapp/unspecified/jars/classes.jar" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/res/merged/debug/drawable-hdpi-v4/citic_logo.jpg" afterPath="$PROJECT_DIR$/build/intermediates/res/merged/debug/drawable-hdpi-v4/citic_logo.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/res/merged/debug/drawable-hdpi-v4/icon_company_logo.jpg" afterPath="$PROJECT_DIR$/build/intermediates/res/merged/debug/drawable-hdpi-v4/icon_company_logo.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/res/merged/debug/drawable-hdpi-v4/icon_costomer_logo.jpg" afterPath="$PROJECT_DIR$/build/intermediates/res/merged/debug/drawable-hdpi-v4/icon_costomer_logo.jpg" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/res/resources-debug.ap_" afterPath="$PROJECT_DIR$/build/intermediates/res/resources-debug.ap_" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/drawable-hdpi/icon_company_logo.jpg" afterPath="$PROJECT_DIR$/res/drawable-hdpi/icon_company_logo.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/drawable-hdpi/icon_costomer_logo.jpg" afterPath="$PROJECT_DIR$/res/drawable-hdpi/icon_costomer_logo.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/CiticPay.iml" afterPath="$PROJECT_DIR$/CiticPay.iml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/generated/source/buildConfig/androidTest/debug/com/android/citic/test/BuildConfig.java" afterPath="$PROJECT_DIR$/build/generated/source/buildConfig/androidTest/debug/com/android/citic/test/BuildConfig.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/generated/source/buildConfig/debug/com/android/citic/BuildConfig.java" afterPath="$PROJECT_DIR$/build/generated/source/buildConfig/debug/com/android/citic/BuildConfig.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/blame/res/debug/single/drawable-hdpi-v4.json" afterPath="$PROJECT_DIR$/build/intermediates/blame/res/debug/single/drawable-hdpi-v4.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/blame/res/debug/single/drawable-hdpi.json" afterPath="$PROJECT_DIR$/build/intermediates/blame/res/debug/single/drawable-hdpi.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/blame/res/debug/single/drawable-xhdpi.json" afterPath="$PROJECT_DIR$/build/intermediates/blame/res/debug/single/drawable-xhdpi.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/incremental/mergeDebugAndroidTestResources/compile-file-map.properties" afterPath="$PROJECT_DIR$/build/intermediates/incremental/mergeDebugAndroidTestResources/compile-file-map.properties" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/incremental/mergeDebugResources/compile-file-map.properties" afterPath="$PROJECT_DIR$/build/intermediates/incremental/mergeDebugResources/compile-file-map.properties" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/incremental/mergeDebugResources/merger.xml" afterPath="$PROJECT_DIR$/build/intermediates/incremental/mergeDebugResources/merger.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/manifests/full/debug/AndroidManifest.xml" afterPath="$PROJECT_DIR$/build/intermediates/manifests/full/debug/AndroidManifest.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/libapp/libapp.iml" afterPath="$PROJECT_DIR$/libapp/libapp.iml" />
     </list>
@@ -394,42 +93,7 @@
     <favorites_list name="CiticPay" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="icon_costomer_logo.jpg" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/res/drawable-hdpi/icon_costomer_logo.jpg">
-          <provider selected="true" editor-type-id="images">
-            <state />
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="AndroidManifest.xml" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/AndroidManifest.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="15" column="36" selection-start-line="15" selection-start-column="36" selection-end-line="15" selection-end-column="36" />
-              <folding />
-            </state>
-          </provider>
-          <provider editor-type-id="android-manifest">
-            <state />
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="icon_company_logo.jpg" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/res/drawable-hdpi/icon_company_logo.jpg">
-          <provider selected="true" editor-type-id="images">
-            <state />
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="icon_costomer_single_logo.png" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/res/drawable-hdpi/icon_costomer_single_logo.png">
-          <provider selected="true" editor-type-id="images">
-            <state />
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
   </component>
   <component name="GenerateSignedApkSettings">
     <option name="KEY_STORE_PATH" value="E:\demo\android\szfp.jks" />
@@ -2080,9 +1744,9 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="-9" />
-    <option name="y" value="-9" />
-    <option name="width" value="2578" />
+    <option name="x" value="-229" />
+    <option name="y" value="12" />
+    <option name="width" value="2572" />
     <option name="height" value="1048" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
@@ -2096,7 +1760,7 @@
     <ConfirmationsSetting value="0" id="Remove" />
   </component>
   <component name="ProjectView">
-    <navigator currentView="AndroidView" proportions="" version="1">
+    <navigator currentView="ProjectPane" proportions="" version="1">
       <flattenPackages />
       <showMembers />
       <showModules />
@@ -2110,17 +1774,30 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="AndroidView">
-        <subPane />
-      </pane>
-      <pane id="PackagesPane" />
-      <pane id="Scratches">
-        <subPane />
-      </pane>
+      <pane id="Scratches" />
+      <pane id="AndroidView" />
       <pane id="ProjectPane">
-        <subPane />
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="CiticPay" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="CiticPay" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="CiticPay" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
       </pane>
       <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -2505,12 +2182,12 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-9" y="-9" width="2578" height="1048" extended-state="6" />
-    <editor active="true" />
+    <frame x="-229" y="12" width="2572" height="1048" extended-state="0" />
+    <editor active="false" />
     <layout>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="FindBugs-IDEA" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32941177" sideWeight="0.5" order="13" side_tool="false" content_ui="tabs" />
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3262662" sideWeight="0.49520382" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="FindBugs-IDEA" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32941177" sideWeight="0.5" order="13" side_tool="false" content_ui="tabs" />
       <window_info id="Build Variants" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="true" content_ui="tabs" />
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
@@ -2522,8 +2199,7 @@
       <window_info id="Captures" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Gradle Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="12" side_tool="true" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.196243" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.31448764" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.19591346" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Gradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32853717" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24940048" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Android Model" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
@@ -2541,6 +2217,7 @@
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.16946442" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.31448764" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
     <layout-to-restore>
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -2892,7 +2569,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1635">
           <caret line="127" column="39" selection-start-line="127" selection-start-column="39" selection-end-line="127" selection-end-column="39" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -2900,7 +2576,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -2908,7 +2583,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="345">
           <caret line="23" column="26" selection-start-line="23" selection-start-column="26" selection-end-line="23" selection-end-column="26" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -2916,7 +2590,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -2924,7 +2597,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="210">
           <caret line="14" column="37" selection-start-line="14" selection-start-column="37" selection-end-line="14" selection-end-column="37" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -2932,7 +2604,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="435">
           <caret line="29" column="13" selection-start-line="29" selection-start-column="13" selection-end-line="29" selection-end-column="13" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -2973,7 +2644,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
           <caret line="17" column="13" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -2994,7 +2664,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="486">
           <caret line="75" column="21" selection-start-line="75" selection-start-column="9" selection-end-line="75" selection-end-column="21" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -3010,9 +2679,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="537">
           <caret line="233" column="41" selection-start-line="233" selection-start-column="41" selection-end-line="233" selection-end-column="41" />
-          <folding>
-            <element signature="method#start#0;class#PrintManager#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -3020,7 +2686,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="137">
           <caret line="48" column="35" selection-start-line="48" selection-start-column="35" selection-end-line="48" selection-end-column="35" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -3028,7 +2693,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="596">
           <caret line="60" column="9" selection-start-line="60" selection-start-column="9" selection-end-line="60" selection-end-column="9" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -3041,7 +2705,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="465">
           <caret line="61" column="39" selection-start-line="61" selection-start-column="39" selection-end-line="61" selection-end-column="39" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -3050,29 +2713,27 @@
         <state />
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/res/mipmap-hdpi/ic_launcher.jpg" />
     <entry file="file://$PROJECT_DIR$/res/drawable-hdpi/icon_company_logo.jpg">
       <provider selected="true" editor-type-id="images">
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/res/drawable-hdpi/icon_costomer_logo.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/res/mipmap-hdpi/ic_launcher.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/AndroidManifest.xml">
+      <provider editor-type-id="android-manifest">
+        <state />
+      </provider>
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="15" column="36" selection-start-line="15" selection-start-column="36" selection-end-line="15" selection-end-column="36" />
-          <folding />
+        <state relative-caret-position="15">
+          <caret line="24" column="46" selection-start-line="24" selection-start-column="46" selection-end-line="24" selection-end-column="46" />
+          <folding>
+            <element signature="e#971#989#0" expanded="true" />
+          </folding>
         </state>
       </provider>
-      <provider editor-type-id="android-manifest">
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/drawable-hdpi/icon_costomer_logo.jpg">
+      <provider selected="true" editor-type-id="images">
         <state />
       </provider>
     </entry>
